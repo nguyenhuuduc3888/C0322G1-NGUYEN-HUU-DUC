@@ -1,0 +1,35 @@
+1-BÀI T?P QUY Ð?I TI?N 
+
+BEGIN
+INPUT USD
+VND=USD*23000
+DISPLAY "VND"
+END
+
+2-BÀI T?P TÍNH ÐI?M TRUNG B?NH
+
+BEGIN
+INPUT A,B,C
+TB=(A+B+C)/3
+DISPLAY "TB"
+END
+
+3-T?M S? L?N NH?T
+
+BIGIN
+      INPUT A,B,C
+      IF A>B AND A>C
+       DISPLAY "A L?N NH?T"
+   ELSE 
+       IF (B>C)
+        DISPLAY "B L?N NH?T"
+   ELSE
+       DISPLAY "C L?N NH?T"
+   END IF
+END
+
+4-T?M GIÁ TR? L?N NH?T TRONG D?Y S?
+
+BEGIN
+INPUT 
+
