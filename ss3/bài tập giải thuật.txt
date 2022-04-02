@@ -1,0 +1,47 @@
+1-quy doi tien  
+
+BEGIN
+   INPUT USD
+   VND=USD*23000
+   DISPLAY "VND"
+END
+
+2-tinh diem trung binh
+
+BEGIN
+   INPUT A,B,C
+   TB=(A+B+C)/3
+   DISPLAY "TB"
+END
+
+3-tim so lon nhat 
+
+BIGIN
+      INPUT A,B,C
+      IF A>B AND A>C
+       DISPLAY "A max"
+   ELSE 
+       IF (B>C)
+        DISPLAY "B max"
+   ELSE
+       DISPLAY "C max"
+   END IF
+END
+4-tim so lon nhat trong d?y so
+ 
+BEGIN
+    INPUT n là s? lý?ng các s? trong d?y
+    INPUT a1 , a2 ,a3 ...an
+          max= a1 , i=2
+    
+    WHILE i <= n
+    DO 
+       IF ai > max
+          max = ai
+       END IF
+    i=i+1
+    END DO
+    OUTPUT Max
+END
+
+

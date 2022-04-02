@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="24d1ca99-7bc1-4ffe-958d-72a7d77355ee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/bai_tap/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai_tap/news.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss3/dffffffffff.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss5/bai_tap/bai_tap_ban_co_.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5/bai_tap/bai_tap_ban_co_.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss5/bai_tap/bai_tap_o_lich.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5/bai_tap/bai_tap_o_lich.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss5/bai_tap/bai_tap_tao_bang_don_gian.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5/bai_tap/bai_tap_tao_bang_don_gian.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss5/thuc_hanh/thuc_hanh_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5/thuc_hanh/thuc_hanh_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss5/thuc_hanh/thuc_hanh_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5/thuc_hanh/thuc_hanh_2.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="278wAKtsguidFYB72jKpma4zFsm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/f8-shop" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24d1ca99-7bc1-4ffe-958d-72a7d77355ee" name="Default Changelist" comment="" />
+      <created>1648714875467</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648714875467</updated>
+      <workItem from="1648714876760" duration="264000" />
+      <workItem from="1648715879597" duration="146000" />
+      <workItem from="1648721184398" duration="9000" />
+      <workItem from="1648776213600" duration="1317000" />
+      <workItem from="1648783443487" duration="1027000" />
+      <workItem from="1648784525568" duration="4260000" />
+      <workItem from="1648793620954" duration="162000" />
+      <workItem from="1648794421957" duration="7716000" />
+      <workItem from="1648802705348" duration="2589000" />
+      <workItem from="1648807331611" duration="718000" />
+      <workItem from="1648821400666" duration="5600000" />
+      <workItem from="1648827248723" duration="5545000" />
+      <workItem from="1648880784028" duration="2848000" />
+      <workItem from="1648884770944" duration="117000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="464" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1648829694510">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="464" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1648829694510" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1648714925416">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1648714925416" />
+    <state x="844" y="65" key="RollbackChangesDialog" timestamp="1648787481826">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="844" y="65" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1648787481826" />
+    <state x="292" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1648824899515">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="292" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1648824899515" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1648826888607">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1648826888607" />
+  </component>
+</project>
