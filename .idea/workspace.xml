@@ -20,14 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24d1ca99-7bc1-4ffe-958d-72a7d77355ee" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/bai_tap/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai_tap/news.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss3/dffffffffff.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss5/bai_tap/bai_tap_ban_co_.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5/bai_tap/bai_tap_ban_co_.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss5/bai_tap/bai_tap_o_lich.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5/bai_tap/bai_tap_o_lich.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss5/bai_tap/bai_tap_tao_bang_don_gian.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5/bai_tap/bai_tap_tao_bang_don_gian.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss5/thuc_hanh/thuc_hanh_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5/thuc_hanh/thuc_hanh_1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss5/thuc_hanh/thuc_hanh_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5/thuc_hanh/thuc_hanh_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss5/bai_tap/bai_tap_ban_co.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss5/bai_tap/bai_tap_ban_co_.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss5/bai_tap/bai_tap_o_lich.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +50,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/f8-shop" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -86,6 +82,7 @@
       <workItem from="1648827248723" duration="5545000" />
       <workItem from="1648880784028" duration="2848000" />
       <workItem from="1648884770944" duration="117000" />
+      <workItem from="1648887075164" duration="1366000" />
     </task>
     <servers />
   </component>
@@ -109,10 +106,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="464" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1648829694510" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1648714925416">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1648887129480">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1648714925416" />
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1648887129480" />
     <state x="844" y="65" key="RollbackChangesDialog" timestamp="1648787481826">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
