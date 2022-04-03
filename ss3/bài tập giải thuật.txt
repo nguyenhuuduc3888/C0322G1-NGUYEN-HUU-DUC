@@ -27,7 +27,7 @@ BIGIN
        DISPLAY "C max"
    END IF
 END
-4-tim so lon nhat trong d?y so
+4-tim so lon nhat trong dayy so
  
 BEGIN
     INPUT n là s? lý?ng các s? trong d?y
