@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bài tập chuyển đổi tiền </title>
+</head>
+<body>
+<table>
+    <tr>
+        <th>
+            Nhập dữ liệu
+        </th>
+        <th>
+            Chuyển Từ
+        </th>
+        <th>
+            Sang
+        </th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>
+            <input type="text" id="nhập data">
+        </th>
+        <th>
+            <select id="data1">
+                <option value="nuoc1">Việt Nam</option>
+                <option value="nuoc2">USD</option>
+            </select>
+        </th>
+        <th>
+            <select id="data2">
+                <option value="nuoc1" >Việt Nam</option>
+                <option value="nuoc2" >USD</option>
+            </select>
+        </th>
+
+        <th>
+            <button style="background-color: gold" onclick="convert()">Tính toán</button>
+        </th>
+    </tr>
+    <tr>
+        <th>
+        <h4 id="kết quả" > Hiển thị kết quả </h4>
+        </th>
+    </tr>
+
+
+</table>
+
+​
+<script>
+    function convert() {
+        let nhap_data=document.getElementById("nhập data").value
+        let du_lieu_vao=parseInt(nhap_data)
+        let bang_a=document.getElementById('data1').value
+        let bang_b=document.getElementById('data2').value
+        const vndtousd = du_lieu_vao/23000
+        const usdtovnd = du_lieu_vao*23000
+        if (bang_a===bang_b)                        {document.getElementById("kết quả").innerHTML = "Kết quả:"+ du_lieu_vao;}
+        if (bang_a==="nuoc1" && bang_b==="nuoc2")   {document.getElementById("kết quả").innerHTML = "Kết quả:"+ vndtousd;}
+        if (bang_a==="nuoc2" && bang_b==="nuoc1")   {document.getElementById("kết quả").innerHTML = "Kết quả:"+ usdtovnd;}
+        }
+
+</script>
+</body>
+</html>

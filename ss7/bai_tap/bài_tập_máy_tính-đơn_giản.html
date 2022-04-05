@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<table>
+    <caption style="caption-side: top">  Máy tính</caption>
+    <tr>
+        <th>
+            <input type="text" id="number1">
+        </th>
+        <th>
+            <input type="text" id="number2">
+        </th>
+    </tr>
+    <tr>
+        <th>
+            <button onclick="convert1()" id="phép cộng">+</button>
+            <button onclick="convert2()" id="phép trừ">-</button>
+            <button onclick="convert3()" id="phép nhân">*</button>
+            <button onclick="convert4()" id="phép chia">/</button>
+        </th>
+
+
+    </tr>
+</table>
+<script>
+    function convert1() {
+        let hopA=parseFloat( document.getElementById("number1").value)
+        let hopB=parseFloat( document.getElementById("number2").value)
+        alert(hopA+hopB);
+    }
+    function convert2() {
+        let hopA=parseFloat( document.getElementById("number1").value)
+        let hopB=parseFloat( document.getElementById("number2").value)
+        alert(hopA-hopB);
+    }
+    function convert3() {
+        let hopA=parseFloat( document.getElementById("number1").value)
+        let hopB=parseFloat( document.getElementById("number2").value)
+        alert(hopA*hopB);
+    }
+    function convert4() {
+        let hopA=parseFloat( document.getElementById("number1").value)
+        let hopB=parseFloat( document.getElementById("number2").value)
+        alert(hopA/hopB);
+    }
+
+
+
+</script>
+</body>
+</html>
