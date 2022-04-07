@@ -2,9 +2,39 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>$Title$</title>
+    <title>Title</title>
 </head>
 <body>
-$END$
+<form>
+    <img id="ball" src="PNGKhothietke.net-03355.png" width="100px" height="100px"/>
+    <p>Nhấn nút để quả bóng di chuyển qua phải</p>
+    <input type="button" value="Nhấn để bóng chạy tới" id="next" onclick="anhDiChuyenToi()"/>
+    <input type="button" value="Nhấn để bóng chạy lùi" id="back" onclick="anhDiChuyenLui()"/>
+</form>
+<script>
+    let a = null;
+    a = document.getElementById("ball");
+
+    function anhGoc() {
+        a = document.getElementById('ball');
+        a.style.position = "relative";
+        a.style.left = "0px";
+
+    }
+
+    function anhDiChuyenToi() {
+        a.style.left = parseInt(a.style.left) + 30 + "px";
+    }
+
+    function anhDiChuyenLui() {
+        a.style.left = parseInt(a.style.left) - 30 + "px";
+    }
+
+    window.onload = anhGoc();
+    document.getElementById("next").innerHTML = anhDiChuyenToi;
+    document.getElementById("next").innerHTML = anhDiChuyenLui;
+
+
+</script>
 </body>
 </html>

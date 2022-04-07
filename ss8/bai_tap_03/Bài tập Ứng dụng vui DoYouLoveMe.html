@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>Bạn yêu tôi không?</h1>
+<input type="button" onclick="yes()" value="Yes">
+<input type="button" style="position:absolute;left: 9px;top: 110px;" onmouseover="no()" value="No" id="no">
+
+</body>
+<script>
+    function yes() {
+        alert("TỚ CŨNG YÊU CẬU")
+    }
+    function no() {
+        let x=Math.random()*innerWidth;
+        let y=Math.random()*innerHeight;
+        document.getElementById("no").style.left=x+"px"
+        document.getElementById("no").style.top =y+"px"
+    }
+</script>
+
+</html>

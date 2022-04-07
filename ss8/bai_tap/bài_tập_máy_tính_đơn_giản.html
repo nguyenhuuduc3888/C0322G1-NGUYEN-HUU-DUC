@@ -69,7 +69,7 @@ table-layout: fixed ;text-align: center ;padding:1px ;border-spacing: 10px 10px 
             <button onclick="result.value+=this.value" value="0">  <h1>0</h1></button>
         </td>
         <td>
-            <button onclick="result.value+=this.value" value="=">  <h1>=</h1> </button>
+            <button onclick="resultt()" value="=">  <h1>=</h1> </button>
         </td>
         <td>
             <button onclick="result.value+=this.value" value="/">  <h1>/</h1></button>
@@ -77,11 +77,12 @@ table-layout: fixed ;text-align: center ;padding:1px ;border-spacing: 10px 10px 
     </tr>
 </table>
 <script>
-
-
-
-
-
+    function resultt(){
+        let nhapPhepTinh=document.getElementById("result").value;
+        let b=parseInt(nhapPhepTinh);
+        const ketQua=eval(b);
+        document.getElementById("result").innerHTML=ketQua;
+    }
 </script>
 </body>
 </html>

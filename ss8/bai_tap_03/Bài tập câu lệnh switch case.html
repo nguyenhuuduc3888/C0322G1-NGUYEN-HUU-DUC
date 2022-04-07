@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<table>
+    <tr>
+        <td>
+            <input type="number"  id="o nhap data">
+        </td>
+        <td> <button style="background-color: gold" onclick="play()" id="go">Tính số ngày</button></td>
+
+
+    </tr>
+    <tr>
+        <td>
+        <h3 id="got" style="color:black"></h3>
+        </td>
+    </tr>
+</table>
+
+
+</body>
+<script>
+    function play() {
+        let month=document.getElementById("o nhap data").value
+        let nhapMonth=parseInt(month)
+        switch (nhapMonth) {
+            case 1:document.getElementById("got").innerHTML="tháng 1  có 31 ngày"
+                break;
+            case 3:document.getElementById("got").innerHTML="tháng 3  có 31 ngày"
+                break;
+            case 5:document.getElementById("got").innerHTML="tháng 5  có 31 ngày"
+                break;
+            case 7:document.getElementById("got").innerHTML="tháng 7 có 31 ngày"
+                break;
+            case 8:document.getElementById("got").innerHTML="tháng 8 có 31 ngày"
+                break;
+            case 10:document.getElementById("got").innerHTML="tháng 10  có 31 ngày"
+                break;
+            case 12:document.getElementById("got").innerHTML="tháng 12  có 31 ngày"
+                break;
+            case 2:document.getElementById("got").innerHTML='tháng này có 28 hoặc 29 ngày'
+                break;
+            case 4:document.getElementById("got").innerHTML="tháng này có 30 ngày"
+                break;
+            case 6:document.getElementById("got").innerHTML="tháng này có 30 ngày"
+                break;
+            case 9:document.getElementById("got").innerHTML="tháng này có 30 ngày"
+                break;
+            case 11:document.getElementById("got").innerHTML="tháng này có 30 ngày"
+                break;
+            case 13:document.getElementById('got').innerHTML="tháng ngày thì hên xui nha,công ty làm ăn được thì có,còn làm ăn thua lỗ thì bạn biết rồi đó"
+                break;
+            default :document.getElementById("got").innerHTML="Không có tháng này đâu nhen :)"
+        }
+
+
+    }
+</script>
+</html>
