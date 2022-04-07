@@ -20,68 +20,72 @@ table-layout: fixed ;text-align: center ;padding:1px ;border-spacing: 10px 10px 
     </tr>
     <tr>
         <td>
-            <button onclick="result.value+=this.value" value="1" id="1"> <h1>1</h1> </button>
+            <button onclick="number(1)" value="1" id="1"> <h1>1</h1> </button>
         </td>
         <td>
-            <button onclick="result.value+=this.value" value="2" id="2" > <h1>2</h1> </button>
+            <button onclick="number(2)" value="2" id="2" > <h1>2</h1> </button>
         </td>
         <td>
-            <button onclick="result.value+=this.value" value="3"> <h1>3</h1>  </button>
+            <button onclick="number(3)" value="3"> <h1>3</h1>  </button>
         </td>
         <td>
-            <button onclick="result.value+=this.value" value="+"><h1>+</h1> </button>
+            <button onclick="number('+')" value="+"><h1>+</h1> </button>
         </td>
 
     </tr>
     <tr>
         <td>
-            <button onclick="result.value+=this.value" value="4"> <h1>4</h1> </button>
+            <button onclick="number(4)" value="4"> <h1>4</h1> </button>
         </td>
         <td>
-            <button onclick="result.value+=this.value" value="5"> <h1>5</h1></button>
+            <button onclick="number(5)" value="5"> <h1>5</h1></button>
         </td>
         <td>
-            <button onclick="result.value+=this.value" value="6">  <h1>6</h1></button>
+            <button onclick="number(6)" value="6">  <h1>6</h1></button>
         </td>
         <td>
-            <button onclick="result.value+=this.value" value="-"> <h1>-</h1></button>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <button onclick="result.value+=this.value" value="7">  <h1>7</h1></button>
-        </td>
-        <td>
-            <button onclick="result.value+=this.value" value="8"> <h1>8</h1> </button>
-        </td>
-        <td>
-            <button onclick="result.value+=this.value" value="9"> <h1>9</h1> </button>
-        </td>
-        <td>
-            <button onclick="result.value+=this.value" value="*"> <h1>*</h1></button>
+            <button onclick="number('-')" value="-"> <h1>-</h1></button>
         </td>
     </tr>
     <tr>
         <td>
-            <button onclick="result.value+=this.value" value="C">  <h1>C</h1></button>
+            <button onclick="number(7)" value="7">  <h1>7</h1></button>
         </td>
         <td>
-            <button onclick="result.value+=this.value" value="0">  <h1>0</h1></button>
+            <button onclick="number(8)" value="8"> <h1>8</h1> </button>
+        </td>
+        <td>
+            <button onclick="number(9)" value="9"> <h1>9</h1> </button>
+        </td>
+        <td>
+            <button onclick="number('*')" value=<"*"> <h1>*</h1></button>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <button onclick="xoa()"  value="C">  <h1>C</h1></button>
+        </td>
+        <td>
+            <button onclick="number()" value="0">  <h1>0</h1></button>
         </td>
         <td>
             <button onclick="resultt()" value="=">  <h1>=</h1> </button>
         </td>
         <td>
-            <button onclick="result.value+=this.value" value="/">  <h1>/</h1></button>
+            <button onclick="number('/')" value="/">  <h1>/</h1></button>
         </td>
     </tr>
 </table>
 <script>
-    function resultt(){
+    function number(nhapvo){
+        document.getElementById("result").value= document.getElementById("result").value + nhapvo;
+    }
+    function resultt() {
         let nhapPhepTinh=document.getElementById("result").value;
-        let b=parseInt(nhapPhepTinh);
-        const ketQua=eval(b);
-        document.getElementById("result").innerHTML=ketQua;
+        document.getElementById("result").value = eval(nhapPhepTinh);
+    }
+    function xoa() { document.getElementById("result").value="";
+
     }
 </script>
 </body>
