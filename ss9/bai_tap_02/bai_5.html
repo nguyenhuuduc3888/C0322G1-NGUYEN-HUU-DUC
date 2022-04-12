@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let i;
+    let tienVayBanDau = parseInt(prompt("số tiền vay lúc đầu"));
+    let soThangDaVay = parseInt(prompt("số tháng đã vay"));
+    let laiSuatHangThang = parseInt(prompt("nhập lãi suất"));
+
+
+   for(i=1; i<soThangDaVay; i++){
+       tienVayBanDau=tienVayBanDau+(tienVayBanDau/100*laiSuatHangThang)
+   }
+   alert("tiền lãi khi bạn vay "+ soThangDaVay + " tháng là : " + tienVayBanDau)
+
+</script>
+</body>
+</html>

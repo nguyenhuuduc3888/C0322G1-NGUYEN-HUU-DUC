@@ -6,7 +6,7 @@
 </head>
 <body>
 <script>
-
+    let num=parseInt(prompt("nhập số muốn chia "))
     let i = null;
     let f0 = 0;
     let f1 = 1;
@@ -16,9 +16,9 @@
         coVic = f0 + f1;
         f0 = f1;
         f1 = coVic;
-        if (f0 % 5 === 0) {
-            document.write(f0 + "chia hết cho 5");
-            break;
+        if (coVic%num === 0) {
+            document.write(coVic + " chia hết cho " + num);
+         break;
         }
     }
 </script>
