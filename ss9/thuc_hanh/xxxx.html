@@ -1,0 +1,26 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let nhietDo;
+    nhietDo = parseInt(prompt(" Chỉnh nhiệt độ giúp tôi nha"));
+    while (true) {
+        if (nhietDo > 100) {
+            nhietDo = parseInt(prompt("Nóng quớ giảm độ xí đi hiện tại nhiệt độ đang là " + nhietDo));
+
+        }
+        else if (nhietDo < 20) {
+            nhietDo = parseInt(prompt("Tăng độ lên xí đi lạnh quá hiện tại nhiệt độ đang là " + nhietDo));
+
+        } else {
+            alert("Oki mát mẻ rồi đó ");
+            break;
+        }
+    }
+</script>
+</body>
+</html>

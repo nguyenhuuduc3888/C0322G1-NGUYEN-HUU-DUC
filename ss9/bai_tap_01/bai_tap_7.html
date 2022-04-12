@@ -1,0 +1,33 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let a = 1;
+
+    while (a <= 20) {
+
+        if (a % 5 === 0 && a % 3 === 0) {
+
+            document.write("fizz buzz" + "<br>");
+
+        } else if (a % 3 === 0) {
+
+            document.write("fizz" + "<br>");
+
+        } else if (a % 5 === 0) {
+
+            document.write("buzz" + "<br>");
+
+        }
+
+        document.write(a + "<br>");
+
+        a++
+    }
+</script>
+</body>
+</html>
