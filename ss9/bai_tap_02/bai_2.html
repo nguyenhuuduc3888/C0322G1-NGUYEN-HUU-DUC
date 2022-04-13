@@ -1,10 +1,26 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
-        "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML>
 <html>
 <head>
-    <title>Title</title>
+    <meta charset="utf-8">
+    <title>giai thua cua so nguyen duong</title>
 </head>
 <body>
+<script>
+    let i;
+    let product = 1;
+    do {
+        let inputNumber = prompt(" Nhap so bat ky:")
+        if (inputNumber < 0) {
+            alert("day k phai so giai thua");
+        } else {
+            for (i = 1; i <= inputNumber; i++) {
+           product = product * i;
+            }
+            document.write(inputNumber + " giai thua = " + product);
+            break;
+        }
+    } while (true)
+</script>
 
 </body>
 </html>
