@@ -2,9 +2,51 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>$Title$</title>
-</head>
+    <title>Title</title>
+
 <body>
-$END$
+<table>
+    MÁY TÍNH
+    <tr>
+    <th><input type="number" id="nhập data 1"> </th>
+    <th><input type="number" id="nhập data 2"> </th>
+    </tr>
+    <tr>
+        <th> <button onclick="fa()"> cộng </button></th>
+        <th> <button onclick="fb()"> trừ  </button></th>
+    </tr>
+    <tr>
+        <th> <button onclick="fc()"> nhân </button></th>
+        <th> <button onclick="fd()"> chia </button></th>
+    </tr>
+
+    <tr>
+        <th> <h1 id="kết quả"> nơi hiện kq</h1></th>
+    </tr>
+
+</table>
+<script>
+    function fa() {
+        let a =parseInt( (document.getElementById("nhập data 1")).value);
+        let b =parseInt( (document.getElementById("nhập data 2")).value);
+        {document.getElementById("kết quả").innerHTML=a+b;}
+    }
+    function fb() {
+        let a = (document.getElementById("nhập data 1")).value;
+        let b = (document.getElementById("nhập data 2")).value;
+        {document.getElementById("kết quả").innerHTML=a-b;}
+    }
+    function fc() {
+        let a = (document.getElementById("nhập data 1")).value;
+        let b = (document.getElementById("nhập data 2")).value;
+        {document.getElementById("kết quả").innerHTML=a*b;}
+    }
+    function fd() {
+        let a = (document.getElementById("nhập data 1")).value;
+        let b = (document.getElementById("nhập data 2")).value;
+        {document.getElementById("kết quả").innerHTML=a/b;}
+    }
+</script>
+
 </body>
 </html>

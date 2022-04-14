@@ -1,10 +1,75 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
     <meta charset="UTF-8">
-    <title>$Title$</title>
+    <title>Chuyển đổi tiền tệ</title>
 </head>
 <body>
-$END$
+<table width="80%">
+    <tr>
+        <th>
+            <p>Amount</p>
+        </th>
+        <th>
+            <p>From Currency</p>
+        </th>
+        <th>
+            <p>To Currency</p>
+        </th>
+        <th>
+        </th>
+    </tr>
+    <tr>
+        <th>
+            <input type="text" name="amount" id="money">
+        </th>
+        <th>
+            <select name="money" id="fromcurenccy">
+                <option value="value1">VietNam</option>
+                <option value="value2">USD</option>
+            </select>
+        </th>
+        <th>
+            <select name="money" id="tocurenccy">
+                <option value="value1">VietNam</option>
+                <option value="value2">USD</option>
+            </select>
+        </th>
+        <th>
+            <button style="background-color: yellowgreen" type="button" onclick="convert()">Convert</button>
+        </th>
+    </tr>
+    <tr>
+        <th>
+            <p style="color: green" id="ketqua"></p>
+        </th>
+    </tr>
+</table>
+​
+<script>
+    function convert() {
+        let nhapvao = document.getElementById("money").value
+        let amount = parseInt(nhapvao)
+        let from = document.getElementById("fromcurenccy").value
+        // let fromvalue = from.option[from.selectedIndex].value;
+        let to = document.getElementById("tocurenccy").value
+        // let tovalue = to.option[to.selectedIndex].value;
+        const vndtousd = amount / 23000
+        const usdtovnd = amount * 23000
+        if (from === to) {
+            document.getElementById("ketqua").innerHTML = "result: " + amount;
+            // document.write(amount);
+        }
+        if (from === "value1" && to === "value2") {
+            document.getElementById("ketqua").innerHTML = "result: " + vndtousd;
+            // document.write(vndtousd);
+        }
+        if (from === "value2" && to === "value1") {
+            document.getElementById("ketqua").innerHTML = "result: " + usdtovnd;
+            // document.write(usdtovnd);
+        }
+    }
+</script>
+​
 </body>
 </html>

@@ -7,11 +7,14 @@
 <body>
 
 </body>
+
 <script>
-    let one=parseInt(prompt('nhập số a'));
-    let two=parseInt(prompt('nhập số b'));
-    if(one/two===1) {alert ("a chia hết cho b");
-    } else          {alert ("a không chia hết cho b");
+    let one = parseInt(prompt('nhập số a'));
+    let two = parseInt(prompt('nhập số b'));
+    if (one%two===0) {
+        alert("a chia hết cho b");
+    } else {
+        alert("a không chia hết cho b");
     }
 
 </script>

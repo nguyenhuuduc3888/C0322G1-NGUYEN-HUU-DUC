@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let a=[21,442,24,36,2,334,225,6,363,53,533,5353]
+    let max=a[0];
+    let trungBinh;
+    let tong=0;
+    for(let i=1;i<a.length;i++){
+        if(a[i]>max){
+            max=a[i];
+            tong +=a[i]
+            trungBinh=tong/(a.length-1)
+        }
+    }
+    document.write('Số lớn nhất là của dãy ' + max + '<br>');
+    document.write('Trung bình của dãy số là ' + trungBinh)
+</script>
+</body>
+</html>

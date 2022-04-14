@@ -6,46 +6,37 @@
 </head>
 <body>
 <table>
-    <caption style="caption-side: top">  Máy tính</caption>
+    <caption style="caption-side: top ;color: gold" >  Máy tính</caption>
     <tr>
         <th>
-            <input type="text" id="number1">
+            <input type="number" id="number1" style="background-color: burlywood">
         </th>
         <th>
-            <input type="text" id="number2">
+            <input type="number" id="number2" style="background-color: burlywood">
         </th>
     </tr>
     <tr>
         <th>
-            <button onclick="convert1()" id="phép cộng">+</button>
-            <button onclick="convert2()" id="phép trừ">-</button>
-            <button onclick="convert3()" id="phép nhân">*</button>
-            <button onclick="convert4()" id="phép chia">/</button>
+            <button onclick="convert1('A')" id="phép cộng" value="cộng en đi" style="background-color: yellow">cộng</button>
+            <button onclick="convert1('B')" id="phép trừ" value="trừ em đi" style="background-color: yellow">trừ</button>
+            <button onclick="convert1('C')" id="phép nhân" value="nhân em đi" style="background-color: yellow">nhân</button>
+            <button onclick="convert1('D')" id="phép chia" value="chia em đi" style="background-color: yellow">chia</button>
         </th>
 
 
+    </tr>
+    <tr>
+        <th> <span id="kq" STYLE="color: gold"> kết quả</span> </th>
     </tr>
 </table>
 <script>
-    function convert1() {
+    function convert1(gop) {
         let hopA=parseFloat( document.getElementById("number1").value)
         let hopB=parseFloat( document.getElementById("number2").value)
-        alert(hopA+hopB);
-    }
-    function convert2() {
-        let hopA=parseFloat( document.getElementById("number1").value)
-        let hopB=parseFloat( document.getElementById("number2").value)
-        alert(hopA-hopB);
-    }
-    function convert3() {
-        let hopA=parseFloat( document.getElementById("number1").value)
-        let hopB=parseFloat( document.getElementById("number2").value)
-        alert(hopA*hopB);
-    }
-    function convert4() {
-        let hopA=parseFloat( document.getElementById("number1").value)
-        let hopB=parseFloat( document.getElementById("number2").value)
-        alert(hopA/hopB);
+        if (gop==="A")      {document.getElementById("kq").innerHTML=hopA+hopB;}
+        else if (gop==="B") {document.getElementById("kq").innerHTML=hopA-hopB;}
+        else if (gop==="C") {document.getElementById("kq").innerHTML=hopA*hopB;}
+        else if (gop==="D") {document.getElementById("kq").innerHTML=hopA/hopB;}
     }
 
 

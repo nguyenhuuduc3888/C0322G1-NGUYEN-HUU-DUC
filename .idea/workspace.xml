@@ -20,8 +20,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24d1ca99-7bc1-4ffe-958d-72a7d77355ee" name="Default Changelist" comment="up">
+      <change afterPath="$PROJECT_DIR$/ss10/luyen-tap-1/bai-01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss10/luyen-tap-1/bai-02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss10/luyen-tap-1/bai-03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss10/luyen-tap-1/bai-04.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss10/luyen-tap-1/bai-05.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss10/luyen-tap-1/bai-06.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss10/luyen-tap-1/bai-07.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss5/bai_tap/tao_o_lich.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5/bai_tap/bai_tap_tao_o_lich.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss10/thuc_hanh/thuc hanh dao nguoc mang.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss10/thuc_hanh/thuc hanh dao nguoc mang.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss5/bai_tap/Bài_tập_tạo_bàn_cờ.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5/bai_tap/Bài_tập_tạo_bàn_cờ.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss5/bai_tap/Bài_tập_tạo_form_lấy_thông_tin_khách_hàng.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5/bai_tap/Bài_tập_tạo_form_lấy_thông_tin_khách_hàng.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss5/bai_tap/Bài_tập_tạo_form_đơn_giản.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5/bai_tap/Bài_tập_tạo_form_đơn_giản.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss5/bai_tap/Bài_tập_tạo_ô_lịch.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5/bai_tap/Bài_tập_tạo_ô_lịch.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss5/thuc_hanh/thuc_hanh_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5/thuc_hanh/thuc_hanh_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss6/thuc_hanh/Thực_hành_01.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss6/thuc_hanh/Thực_hành_01.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss6/thuc_hanh/g.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss6/thuc_hanh/g.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss6/thuc_hanh/on off light.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss6/thuc_hanh/on off light.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss6/thuc_hanh/text.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss6/thuc_hanh/text.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss6/thuc_hanh/thuc_hanh.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss6/thuc_hanh/thuc_hanh.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss7/bai_tap/bài_tập_chuyển_đổi_tiền_usd_vnđ.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss7/bai_tap/bài_tập_chuyển_đổi_tiền_usd_vnđ.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss7/bai_tap/bài_tập_máy_tính-đơn_giản.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss7/bai_tap/bài_tập_máy_tính-đơn_giản.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss7/bai_tap/chuyển_độ_C_sang_độ_F.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss7/bai_tap/chuyển_độ_C_sang_độ_F.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss7/thuc_hanh/máy_tính_nâng_cao.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss7/thuc_hanh/máy_tính_nâng_cao.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss7/thuc_hanh/thực_hành_01.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss7/thuc_hanh/thực_hành_01.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss8/bai_tap/Bài 3 Nhập một số nguyên bất kỳ  số đó là lớn hay nhỏ hơn 0.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss8/bai_tap/Bài 3 Nhập một số nguyên bất kỳ  số đó là lớn hay nhỏ hơn 0.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss8/bai_tap/Bài 4 Nhập 3 số nguyên và tìm giá trị lớn nhất của ba số nguyên đó.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss8/bai_tap/Bài 4 Nhập 3 số nguyên và tìm giá trị lớn nhất của ba số nguyên đó.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss8/bai_tap/Bài 6 Tính hoa hồng nhận được tuỳ theo mức doanh số bán hàng.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss8/bai_tap/Bài 6 Tính hoa hồng nhận được tuỳ theo mức doanh số bán hàng.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss8/bai_tap/Bài tập 1 nhập vào hai số a và b, và kiểm tra xem a có chia hết cho b hay không.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss8/bai_tap/Bài tập 1 nhập vào hai số a và b, và kiểm tra xem a có chia hết cho b hay không.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss8/bai_tap/Bài tập 2 nhập tuổi và in ra kết quả nếu tuổi học sinh đó không đủ điều kiện vào học lớp 10.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss8/bai_tap/Bài tập 2 nhập tuổi và in ra kết quả nếu tuổi học sinh đó không đủ điều kiện vào học lớp 10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss8/bai_tap/Bài tập 5 Xếp hạng học lực của học sinh dựa trên các điểm bài kiểm tra, điểm thi giữa kỳ, điểm thi cuối kỳ.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss8/bai_tap/Bài tập 5 Xếp hạng học lực của học sinh dựa trên các điểm bài kiểm tra, điểm thi giữa kỳ, điểm thi cuối kỳ.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss8/bai_tap/bài_tập_máy_tính_đơn_giản.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss8/bai_tap/bài_tập_máy_tính_đơn_giản.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss8/bai_tap_02/Bài 12 Viết chương trình tính lãi ngân hàng (lãi mẹ đẻ lãi con) khi biết số tiền ban đầu, số tháng cho vay và lãi xuất hàng tháng.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss8/bai_tap_02/Bài 12 Viết chương trình tính lãi ngân hàng (lãi mẹ đẻ lãi con) khi biết số tiền ban đầu, số tháng cho vay và lãi xuất hàng tháng.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss8/bai_tap_02/Bài 6 Giải phương trình bậc 1.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss8/bai_tap_02/Bài 6 Giải phương trình bậc 1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss8/bai_tap_02/Bài 8 Kiểm tra xem một số nhập vào có phải là tuổi của một người không.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss8/bai_tap_02/Bài 8 Kiểm tra xem một số nhập vào có phải là tuổi của một người không.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss8/bai_tap_02/Bài 9 Kiểm tra xem 3 số thực (a,b,c) nhập vào có phải là cạnh của một tam giác.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss8/bai_tap_02/Bài 9 Kiểm tra xem 3 số thực (a,b,c) nhập vào có phải là cạnh của một tam giác.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss8/bai_tap_03/Bài tập Ứng dụng vui DoYouLoveMe.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss8/bai_tap_03/Bài tập Ứng dụng vui DoYouLoveMe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss8/thuc_hanh/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss8/thuc_hanh/1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss8/thuc_hanh/Tạo máy tính đơn giản bằng javascript.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss8/thuc_hanh/nháp.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss8/thuc_hanh/nháp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/bai_tap/tao_bang_cuu_chuong.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss9/bai_tap/tao_bang_cuu_chuong.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/bai_tap_01/bai_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss9/bai_tap_01/bai_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/bai_tap_01/bai_6.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss9/bai_tap_01/bai_6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/bai_tap_02/bai_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss9/bai_tap_02/bai_3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/bai_tap_02/bai_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss9/bai_tap_02/bai_4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/thuc_hanh_tao_bang.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss9/thuc_hanh/thuc_hanh_tao_bang.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +74,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
+        <option value="HTML4 File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -58,6 +103,16 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="hien_thi_so_nguyen_to_dau-tien.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CODE_GYM_DN/ss9/bai_tap/hien_thi_so_nguyen_to_dau-tien.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.hien_thi_so_nguyen_to_dau-tien.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -88,6 +143,62 @@
       <workItem from="1648888724705" duration="411000" />
       <workItem from="1648892680435" duration="725000" />
       <workItem from="1648893876288" duration="4349000" />
+      <workItem from="1648898531403" duration="187000" />
+      <workItem from="1648898749867" duration="20000" />
+      <workItem from="1648954285420" duration="3471000" />
+      <workItem from="1648969257027" duration="24000" />
+      <workItem from="1648969525956" duration="11000" />
+      <workItem from="1648969578830" duration="974000" />
+      <workItem from="1648970589612" duration="953000" />
+      <workItem from="1648973879413" duration="513000" />
+      <workItem from="1649043894217" duration="5396000" />
+      <workItem from="1649055471653" duration="1552000" />
+      <workItem from="1649058812953" duration="17000" />
+      <workItem from="1649064633526" duration="2318000" />
+      <workItem from="1649067143547" duration="1552000" />
+      <workItem from="1649079940449" duration="9268000" />
+      <workItem from="1649118604193" duration="5771000" />
+      <workItem from="1649131086822" duration="4570000" />
+      <workItem from="1649143055605" duration="3988000" />
+      <workItem from="1649147606552" duration="521000" />
+      <workItem from="1649148846875" duration="292000" />
+      <workItem from="1649205630829" duration="977000" />
+      <workItem from="1649215344109" duration="16679000" />
+      <workItem from="1649239831542" duration="444000" />
+      <workItem from="1649247117632" duration="11778000" />
+      <workItem from="1649259175417" duration="4345000" />
+      <workItem from="1649291399637" duration="506000" />
+      <workItem from="1649291941363" duration="7364000" />
+      <workItem from="1649299372887" duration="3123000" />
+      <workItem from="1649302631454" duration="13000" />
+      <workItem from="1649302733357" duration="2674000" />
+      <workItem from="1649306475718" duration="780000" />
+      <workItem from="1649312641659" duration="3608000" />
+      <workItem from="1649318871759" duration="2619000" />
+      <workItem from="1649325524693" duration="1208000" />
+      <workItem from="1649376054842" duration="2000" />
+      <workItem from="1649376076740" duration="1406000" />
+      <workItem from="1649387469419" duration="1849000" />
+      <workItem from="1649389378299" duration="17759000" />
+      <workItem from="1649555488559" duration="8660000" />
+      <workItem from="1649574097769" duration="4135000" />
+      <workItem from="1649640903579" duration="5103000" />
+      <workItem from="1649660104062" duration="527000" />
+      <workItem from="1649660658983" duration="645000" />
+      <workItem from="1649723721888" duration="11884000" />
+      <workItem from="1649745766943" duration="5988000" />
+      <workItem from="1649755460485" duration="1350000" />
+      <workItem from="1649758131931" duration="40000" />
+      <workItem from="1649810284807" duration="10596000" />
+      <workItem from="1649822681766" duration="154000" />
+      <workItem from="1649830784734" duration="6629000" />
+      <workItem from="1649841495367" duration="1255000" />
+      <workItem from="1649844358590" duration="584000" />
+      <workItem from="1649853423620" duration="5677000" />
+      <workItem from="1649897608381" duration="2778000" />
+      <workItem from="1649911106565" duration="11336000" />
+      <workItem from="1649930999176" duration="589000" />
+      <workItem from="1649940130666" duration="10427000" />
     </task>
     <task id="LOCAL-00001" summary="up">
       <created>1648888680133</created>
@@ -96,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648888680133</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="up">
+      <created>1648898656119</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1648898656119</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,29 +237,105 @@
     <option name="LAST_COMMIT_MESSAGE" value="up" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="464" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1648829694510">
+    <state x="550" y="0" width="816" height="728" key="#Intentions" timestamp="1649947884706">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="464" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1648829694510" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1648888720896">
+    <state x="550" y="0" width="816" height="728" key="#Intentions/0.0.1366.728@0.0.1366.728" timestamp="1649947884706" />
+    <state x="464" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1649064705052">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1648888720896" />
+    <state x="464" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1649064705052" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1649058828717">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1649058828717" />
+    <state width="1366" height="226" key="GridCell.Tab.0.bottom" timestamp="1649756812102">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1366" height="226" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1649756812102" />
+    <state width="1366" height="226" key="GridCell.Tab.0.center" timestamp="1649756812102">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1366" height="226" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1649756812102" />
+    <state width="1366" height="226" key="GridCell.Tab.0.left" timestamp="1649756812102">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1366" height="226" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1649756812102" />
+    <state width="1366" height="226" key="GridCell.Tab.0.right" timestamp="1649756812102">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1366" height="226" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1649756812102" />
+    <state width="1366" height="226" key="GridCell.Tab.1.bottom" timestamp="1649756812103">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1366" height="226" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1649756812103" />
+    <state width="1366" height="226" key="GridCell.Tab.1.center" timestamp="1649756812103">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1366" height="226" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1649756812103" />
+    <state width="1366" height="226" key="GridCell.Tab.1.left" timestamp="1649756812103">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1366" height="226" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1649756812103" />
+    <state width="1366" height="226" key="GridCell.Tab.1.right" timestamp="1649756812103">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1366" height="226" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1649756812103" />
+    <state width="1366" height="226" key="GridCell.Tab.2.bottom" timestamp="1649756812103">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1366" height="226" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1649756812103" />
+    <state width="1366" height="226" key="GridCell.Tab.2.center" timestamp="1649756812103">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1366" height="226" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1649756812103" />
+    <state width="1366" height="226" key="GridCell.Tab.2.left" timestamp="1649756812103">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1366" height="226" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1649756812103" />
+    <state width="1366" height="226" key="GridCell.Tab.2.right" timestamp="1649756812103">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1366" height="226" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1649756812103" />
+    <state width="1366" height="226" key="GridCell.Tab.3.bottom" timestamp="1649756812103">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1366" height="226" key="GridCell.Tab.3.bottom/0.0.1366.728@0.0.1366.728" timestamp="1649756812103" />
+    <state width="1366" height="226" key="GridCell.Tab.3.center" timestamp="1649756812103">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1366" height="226" key="GridCell.Tab.3.center/0.0.1366.728@0.0.1366.728" timestamp="1649756812103" />
+    <state width="1366" height="226" key="GridCell.Tab.3.left" timestamp="1649756812103">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1366" height="226" key="GridCell.Tab.3.left/0.0.1366.728@0.0.1366.728" timestamp="1649756812103" />
+    <state width="1366" height="226" key="GridCell.Tab.3.right" timestamp="1649756812103">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1366" height="226" key="GridCell.Tab.3.right/0.0.1366.728@0.0.1366.728" timestamp="1649756812103" />
     <state x="844" y="65" key="RollbackChangesDialog" timestamp="1648787481826">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="844" y="65" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1648787481826" />
-    <state x="292" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1648824899515">
+    <state x="275" y="83" key="Vcs.Push.Dialog.v2" timestamp="1648898660830">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="292" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1648824899515" />
+    <state x="275" y="83" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1648898660830" />
+    <state x="292" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1649297296728">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="292" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1649297296728" />
     <state x="492" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1648888668242">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="492" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1648888668242" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1648826888607">
+    <state x="339" y="157" key="run.anything.popup" timestamp="1649816941030">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1648826888607" />
+    <state x="339" y="157" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1649816941030" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1649575605372">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1649575605372" />
   </component>
 </project>

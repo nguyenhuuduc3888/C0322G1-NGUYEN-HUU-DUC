@@ -2,9 +2,34 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>$Title$</title>
+    <title>Title</title>
 </head>
 <body>
-$END$
+<button type="button" onclick="duc();">Click Me!</button> prompt thông báo cộng yêu cầu cung cấp thông tin
+<br> <br>
+<button type="button" onclick="duc1();">Click Me!</button> alert thông báo
+<br> <br>
+<button type="button" onclick="duc2();">Click Me!</button> confirm thông báo cộng đúng hoặc sai
+<br> <br>
+<button id="duc3"  type="button" onclick="duc3();">Click Me!</button> innerhtml chèn văn bản
+<br> <br>
+<button type="button" onclick="duc4();">Click Me!</button> wire
+<br> <br>
+<button type="button" onclick="duc5();">Click Me!</button> console.log
+<br> <br>
+<button type="button" onclick="alert('JS inline');">Click me!</button> Js inline ( trực tiếp trong thẻ html)
+<br> <br>
+<script>
+    function duc()  {prompt('bạn ăn cơm chưa');}
+    function duc1() {alert('bạn ăn cơm chưa');}
+    function duc2() {confirm('bạn ăn cơm chưa');}
+    function duc3() {document.getElementById('duc3').innerHTML="innerhtml";}
+    function duc4() {document.write('Xin chào!');}
+    function duc5() {console.log("Hiển thị bằng hàm console.log");}
+
+
+
+
+</script>
 </body>
 </html>

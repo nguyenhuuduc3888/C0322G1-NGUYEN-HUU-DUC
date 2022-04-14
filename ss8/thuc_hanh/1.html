@@ -8,17 +8,25 @@
 
 </body>
 <script>
-    let arg1=parseInt(prompt("nhap so: "));
-    let arg2=parseInt(prompt("nhap so: "));
-    let arg3=parseInt(prompt("nhap so: "));
+    let arg1 = parseInt(prompt("nhap so: "));
+    let arg2 = parseInt(prompt("nhap so: "));
+    let arg3 = parseInt(prompt("nhap so: "));
 
-    if (arg1>arg2 && arg1<arg3)                {alert( arg1);}
-    else if(arg1<arg2 && arg2<arg3)            {alert(arg2);}
-    else if(arg1<arg3 && arg2>arg3)            {alert(arg3);}
-    else if(arg1===arg2 && arg1===arg3)        {alert(-1);}
-    else if(arg1>arg3 && arg1===arg2) { alert(arg3);}
-    else if(arg1===arg3 && arg1>arg2) { alert(arg2);}
-    else {alert(arg1)}
+    if (arg1 > arg2 && arg1 < arg3) {
+        alert(arg1);
+    } else if (arg1 < arg2 && arg2 < arg3) {
+        alert(arg2);
+    } else if (arg1 < arg3 && arg2 > arg3) {
+        alert(arg3);
+    } else if (arg1 === arg2 && arg1 === arg3) {
+        alert(-1);
+    } else if (arg1 > arg3 && arg1 === arg2) {
+        alert(arg3);
+    } else if (arg1 === arg3 && arg1 > arg2) {
+        alert(arg2);
+    } else {
+        alert(arg1)
+    }
 
 </script>
 </html>

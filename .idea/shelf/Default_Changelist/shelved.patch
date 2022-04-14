@@ -1,0 +1,89 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"BranchesTreeState\">\r\n    <expand>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n    </expand>\r\n    <select />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"24d1ca99-7bc1-4ffe-958d-72a7d77355ee\" name=\"Default Changelist\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/bai_tap/index.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/bai_tap/news.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/ss3/dffffffffff.txt\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/ss5/bai_tap/bai_tap_ban_co_.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/ss5/bai_tap/bai_tap_ban_co_.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/ss5/bai_tap/bai_tap_o_lich.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/ss5/bai_tap/bai_tap_o_lich.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/ss5/bai_tap/bai_tap_tao_bang_don_gian.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/ss5/bai_tap/bai_tap_tao_bang_don_gian.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/ss5/thuc_hanh/thuc_hanh_1.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/ss5/thuc_hanh/thuc_hanh_1.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/ss5/thuc_hanh/thuc_hanh_2.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/ss5/thuc_hanh/thuc_hanh_2.html\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"HTML File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"278wAKtsguidFYB72jKpma4zFsm\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"DefaultHtmlFileTemplate\" value=\"HTML File\" />\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"last_opened_file_path\" value=\"$USER_HOME$/f8-shop\" />\r\n    <property name=\"node.js.detected.package.eslint\" value=\"true\" />\r\n    <property name=\"node.js.detected.package.tslint\" value=\"true\" />\r\n    <property name=\"node.js.path.for.package.eslint\" value=\"project\" />\r\n    <property name=\"node.js.path.for.package.tslint\" value=\"project\" />\r\n    <property name=\"node.js.selected.package.eslint\" value=\"(autodetect)\" />\r\n    <property name=\"node.js.selected.package.tslint\" value=\"(autodetect)\" />\r\n  </component>\r\n  <component name=\"SvnConfiguration\">\r\n    <configuration />\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"24d1ca99-7bc1-4ffe-958d-72a7d77355ee\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1648714875467</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1648714875467</updated>\r\n      <workItem from=\"1648714876760\" duration=\"264000\" />\r\n      <workItem from=\"1648715879597\" duration=\"146000\" />\r\n      <workItem from=\"1648721184398\" duration=\"9000\" />\r\n      <workItem from=\"1648776213600\" duration=\"1317000\" />\r\n      <workItem from=\"1648783443487\" duration=\"1027000\" />\r\n      <workItem from=\"1648784525568\" duration=\"4260000\" />\r\n      <workItem from=\"1648793620954\" duration=\"162000\" />\r\n      <workItem from=\"1648794421957\" duration=\"7716000\" />\r\n      <workItem from=\"1648802705348\" duration=\"2589000\" />\r\n      <workItem from=\"1648807331611\" duration=\"718000\" />\r\n      <workItem from=\"1648821400666\" duration=\"5600000\" />\r\n      <workItem from=\"1648827248723\" duration=\"5545000\" />\r\n      <workItem from=\"1648880784028\" duration=\"2848000\" />\r\n      <workItem from=\"1648884770944\" duration=\"117000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"2\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"464\" y=\"165\" key=\"#com.intellij.fileTypes.FileTypeChooser\" timestamp=\"1648829694510\">\r\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\r\n    </state>\r\n    <state x=\"464\" y=\"165\" key=\"#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728\" timestamp=\"1648829694510\" />\r\n    <state x=\"463\" y=\"118\" key=\"FileChooserDialogImpl\" timestamp=\"1648714925416\">\r\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\r\n    </state>\r\n    <state x=\"463\" y=\"118\" key=\"FileChooserDialogImpl/0.0.1366.728@0.0.1366.728\" timestamp=\"1648714925416\" />\r\n    <state x=\"844\" y=\"65\" key=\"RollbackChangesDialog\" timestamp=\"1648787481826\">\r\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\r\n    </state>\r\n    <state x=\"844\" y=\"65\" key=\"RollbackChangesDialog/0.0.1366.728@0.0.1366.728\" timestamp=\"1648787481826\" />\r\n    <state x=\"292\" y=\"0\" key=\"com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser\" timestamp=\"1648824899515\">\r\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\r\n    </state>\r\n    <state x=\"292\" y=\"0\" key=\"com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728\" timestamp=\"1648824899515\" />\r\n    <state x=\"346\" y=\"49\" width=\"672\" height=\"678\" key=\"search.everywhere.popup\" timestamp=\"1648826888607\">\r\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\r\n    </state>\r\n    <state x=\"346\" y=\"49\" width=\"672\" height=\"678\" key=\"search.everywhere.popup/0.0.1366.728@0.0.1366.728\" timestamp=\"1648826888607\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 2450256aba528ab473012092a8229c1ab3a2c589)
++++ .idea/workspace.xml	(date 1648886880478)
+@@ -19,15 +19,8 @@
+     <select />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="24d1ca99-7bc1-4ffe-958d-72a7d77355ee" name="Default Changelist" comment="">
+-      <change beforePath="$PROJECT_DIR$/bai_tap/index.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/bai_tap/news.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/ss3/dffffffffff.txt" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/ss5/bai_tap/bai_tap_ban_co_.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5/bai_tap/bai_tap_ban_co_.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/ss5/bai_tap/bai_tap_o_lich.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5/bai_tap/bai_tap_o_lich.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/ss5/bai_tap/bai_tap_tao_bang_don_gian.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5/bai_tap/bai_tap_tao_bang_don_gian.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/ss5/thuc_hanh/thuc_hanh_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5/thuc_hanh/thuc_hanh_1.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/ss5/thuc_hanh/thuc_hanh_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5/thuc_hanh/thuc_hanh_2.html" afterDir="false" />
++    <list default="true" id="24d1ca99-7bc1-4ffe-958d-72a7d77355ee" name="Default Changelist" comment="Merge branch 'main' of https://github.com/nguyenhuuduc3888/C0322G1-NGUYEN-HUU-DUC&#10;&#10;# Conflicts:&#10;#&#9;ss5/bai_tap/bai_tap_ban_co_.html&#10;#&#9;ss5/bai_tap/bai_tap_o_lich.html">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -86,6 +79,8 @@
+       <workItem from="1648827248723" duration="5545000" />
+       <workItem from="1648880784028" duration="2848000" />
+       <workItem from="1648884770944" duration="117000" />
++      <workItem from="1648885596301" duration="246000" />
++      <workItem from="1648886150200" duration="721000" />
+     </task>
+     <servers />
+   </component>
+@@ -103,24 +98,48 @@
+       </map>
+     </option>
+     <option name="oldMeFiltersMigrated" value="true" />
++  </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="Merge branch 'main' of https://github.com/nguyenhuuduc3888/C0322G1-NGUYEN-HUU-DUC&#10;&#10;# Conflicts:&#10;#&#9;ss5/bai_tap/bai_tap_ban_co_.html&#10;#&#9;ss5/bai_tap/bai_tap_o_lich.html" />
++    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'main' of https://github.com/nguyenhuuduc3888/C0322G1-NGUYEN-HUU-DUC&#10;&#10;# Conflicts:&#10;#&#9;ss5/bai_tap/bai_tap_ban_co_.html&#10;#&#9;ss5/bai_tap/bai_tap_o_lich.html" />
+   </component>
+   <component name="WindowStateProjectService">
+-    <state x="464" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1648829694510">
++    <state x="464" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1648886244202">
++      <screen x="0" y="0" width="1366" height="728" />
++    </state>
++    <state x="464" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1648886244202" />
++    <state x="258" y="54" key="DiffContextDialog" timestamp="1648886289146">
+       <screen x="0" y="0" width="1366" height="728" />
+     </state>
+-    <state x="464" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1648829694510" />
++    <state x="258" y="54" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1648886289146" />
+     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1648714925416">
+       <screen x="0" y="0" width="1366" height="728" />
+     </state>
+     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1648714925416" />
+-    <state x="844" y="65" key="RollbackChangesDialog" timestamp="1648787481826">
++    <state x="239" y="54" key="MergeDialog" timestamp="1648886870073">
++      <screen x="0" y="0" width="1366" height="728" />
++    </state>
++    <state x="239" y="54" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1648886870073" />
++    <state x="571" y="230" width="443" height="268" key="MultipleFileMergeDialog" timestamp="1648886870089">
+       <screen x="0" y="0" width="1366" height="728" />
+     </state>
+-    <state x="844" y="65" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1648787481826" />
++    <state x="571" y="230" width="443" height="268" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1648886870089" />
++    <state x="844" y="65" key="RollbackChangesDialog" timestamp="1648886291003">
++      <screen x="0" y="0" width="1366" height="728" />
++    </state>
++    <state x="844" y="65" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1648886291003" />
++    <state x="485" y="121" key="Vcs.Multiple.Commit.Info.Dialog.Key" timestamp="1648886833819">
++      <screen x="0" y="0" width="1366" height="728" />
++    </state>
++    <state x="485" y="121" key="Vcs.Multiple.Commit.Info.Dialog.Key/0.0.1366.728@0.0.1366.728" timestamp="1648886833819" />
+     <state x="292" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1648824899515">
+       <screen x="0" y="0" width="1366" height="728" />
+     </state>
+     <state x="292" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1648824899515" />
++    <state x="492" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1648886810417">
++      <screen x="0" y="0" width="1366" height="728" />
++    </state>
++    <state x="492" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1648886810417" />
+     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1648826888607">
+       <screen x="0" y="0" width="1366" height="728" />
+     </state>
