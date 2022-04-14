@@ -1,10 +1,38 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
-        "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE html>
 <html>
+
 <head>
-    <title>$Title$</title>
+    <meta charset=utf-8 />
+    <title>JS Bin</title>
+    <style>
+        body {padding-top: 30px ;
+        }
+    </style>
 </head>
+
 <body>
-$END$
+<h1>-- DUC NGUYEN --</h1>
+<input type="text" id="Value"/>
+<input type="button" id="Add" value="Add" onclick="addPhanTuVaoMang();"/>
+<input type="button" id="Display" value="Hienthi" onclick="mangHienThi();"/>
+<div id="result"></div>
 </body>
+<script>
+    let x=0;
+    let array = Array();
+    function addPhanTuVaoMang() {
+        array[x] = document.getElementById("Value").value;
+        alert("thanhPhan: " + array[x] + " đã thêm vào chỉ mục " + x);
+        x++;
+        document.getElementById("Value ").value = "";
+    }
+    function mangHienThi() {
+        let a = "<hr/>";
+        for (let i = 0; i < array.length; i++) {
+            a += "Element " + i + " = " + array[i] + "<br/>";
+        }
+        document.getElementById("result").innerHTML = a;
+    }
+</script>
+
 </html>

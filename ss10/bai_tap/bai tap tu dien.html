@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Từ Điển</title>
+</head>
+<body>
+ <form>
+     <input type="text" id="nhapdata" placeholder="Nhập từ cần dịch" >  <button onclick="searh()" > Tìm Kiếm </button>
+ </form>
+</body>
+<script>
+    function  searh() {
+        let el = ['Rice', 'Milk', 'Hot', 'Good', 'Fine','Kimochi','Học code'];
+        let vn = ['Gạo','Sửa', 'Nóng', 'Tốt','Ổn','Thoải mái quá','Khó quá'];
+        let key=document.getElementById('nhapdata').value;
+        let stt=-1;
+        for  ( let i=0; i< el.length; i++) {
+          if(key==el[i]){
+              stt=i;
+              document.write('Từ ' + el[i]  + '->' + ' nghĩa của nó trong tiếng Việt là '+' -> ' + vn[stt]);
+          }
+        } if(stt===-1){
+            document.write('không tìm thấy rồi hix')
+        }
+    }
+</script>
+</html>

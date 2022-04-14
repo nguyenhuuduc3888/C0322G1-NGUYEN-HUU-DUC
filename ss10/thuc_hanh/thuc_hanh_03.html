@@ -1,10 +1,18 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
-        "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML>
 <html>
 <head>
-    <title>$Title$</title>
+    <meta charset="utf-8">
+    <title>Title</title>
 </head>
 <body>
-$END$
+<script>
+    let arr = ["Toyota", "Subaru", "Bmw"]
+    arr[3] = "Honda"        //them phan tu vao vi tri duoc chon [0,1,2,3.....]
+    arr.push("NVX")        // them phan tu vao cuoi mang
+    arr.unshift("Yamaha") //them phan tu vao dau mang
+    document.write(arr + "<br>")
+    let a = arr[4]
+    document.write(a)
+</script>
 </body>
 </html>
