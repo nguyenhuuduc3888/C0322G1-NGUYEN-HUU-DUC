@@ -6,15 +6,15 @@
 </head>
 <body>
 <script>
-    let a=[21,442,24,36,2,334,225,6,363,53,533,5353]
+    let a=[1,2,3,66,26262,-126,545]
     let max=a[0];
     let trungBinh;
-    let tong=0;
+    let tong=a[0];
     for(let i=1;i<a.length;i++){
         if(a[i]>max){
             max=a[i];
-            tong +=a[i]
-            trungBinh=tong/(a.length-1)
+            tong +=a[i];
+            trungBinh=tong/(a.length)
         }
     }
     document.write('Số lớn nhất là của dãy ' + max + '<br>');

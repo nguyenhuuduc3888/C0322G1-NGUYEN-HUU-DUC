@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let a = [44,1,2,3,4,5,14,21];
+    let b;
+    for (let i = 0; i < a.length; i++) {
+        document.write( " " + a[i]); // in ra  1 2 3
+    }
+    for (let dau = 0; dau < a.length; dau++) {
+        for (let dau1 = 0; dau1 <= dau; dau1++)   {
+            if (a[dau] > a[dau1]) {
+                b = a[dau];
+                a[dau] = a[dau1];
+                a[dau1] = b;
+        }
+        }
+    }
+    document.write("<br>Mảng sau khi đã sắp xếp giảm dần: ");
+    for (let i = 0; i < a.length; i++) {
+        document.write(" " + a[i]);
+    }
+</script>
+</body>
+</html>

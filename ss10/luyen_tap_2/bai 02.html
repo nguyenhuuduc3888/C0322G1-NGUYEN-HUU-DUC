@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let a=["a","b","c","1","2","3"]
+    let dau=0;
+    let cuoi=a.length-1;
+    for(let i=0;i<a.length;i++){
+        if(dau<cuoi){
+            let b=a[dau];
+            a[dau]=a[cuoi];
+            a[cuoi]=b;
+            dau++;
+            cuoi--;
+        }
+    }document.write(a);
+
+</script>
+</body>
+</html>

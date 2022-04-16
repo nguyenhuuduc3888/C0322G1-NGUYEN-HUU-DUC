@@ -6,10 +6,15 @@
 </head>
 <body>
 <script>
-myColor = ["Red", "Green", "White", "Black"];
-document.write(myColor.toString() + '<br>');
-document.write(myColor.join('----') + '<br>');
-document.write(myColor.join(' ') + '<br>');
+    let kq="";
+    let myColor = ["Red", "Green", "White", "Black"];
+    for (let i = 0; i < myColor.length; i++) {
+        kq = kq+ myColor[i]+ " . ";
+    }
+    document.write(kq);
+    //document.write(myColor.toString() + '<br>');
+    // document.write(myColor.join('----') + '<br>');
+    // document.write(myColor.join(' ') + '<br>');
 </script>
 </body>
 </html>

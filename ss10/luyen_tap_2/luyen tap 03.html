@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let a = [ 'c', 's', 'c', '2', '6', '1' ];
+    let count = 0;
+    for (let i = 0; i < a.length + 1; i++) {
+        if(!isNaN(a[i])){
+            count++;
+        }
+    }
+    document.write('Số kí tự số có trong mảng là: ' + count + '<br>');
+    document.write('Kích thước của mảng là: ' + a.length);
+</script>
+</body>
+</html>

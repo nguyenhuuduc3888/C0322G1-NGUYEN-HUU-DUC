@@ -6,17 +6,27 @@
 </head>
 <body>
 <script>
-    let a = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 15, 18, 19];
-    let b = [5, 7, 8, 9, 4, 12, 15, 18, 12, 10,];
-    let i;
-    let j;
-    for (i = 0; i < a.length; i++) {
-        for (j = 0; j < b.length; j++) {
-            if (a[i] === b[j]) {
-               
+    let a = [10, 11, 12, 13, 14]; // mảng 'a' tự tạo bất kỳ
+    let b = parseInt(prompt(" nhập số bất kì")); // biến 'b' để nhập số bất kỳ
+    let flag = false;
+    let n = a.length - 1; // biến 'n' để gọi vị trí của phần tử cuối cùng trong mảng 'a'
+    for (let i = 0; i < n; i++) { // vòng 'for' tìm giá trí vừa nhập có bằng 1 trong số các phàn tử của 'a' hay là không ?
+        // biến cờ để đánh dấu !!!
+        if (a[i] === b) { // 'a[i]' là vị trí của số có giá trị bằng số 'b' mới nhập trong mang 'a'
+            flag = true; // nếu bằng thì gán "cờ = true" và tiếp tục vòng lập lồng để thay đổi vị trí của trong mảng
+            for (; i <= n; i++) {// vòng lặp lồng sẻ xét từ vị trí của phần tử được tìm thấy trong mang 'a'
+                a[i] = a[i + 1]; /*'[ai]' là vị trí hiện tại của phần tử được tìm thấy và nó sẻ cộng thêm 1
+                    và phần từ tiếp đến của nó trong mảng sẻ thay thế vị trí hiện tại của nó cho đến khi nó về cuối cùng mảng*/
             }
+            a[n] = 0; // gán cho vị trí cuối cùng mảng =0
         }
+    } if (flag===true) {
+        document.write(" phần tử  " + b + " có trong mảng " + '<br>')
+        document.write(" mảng mới là  " + a)
+    } else {
+        document.write("phần tử " + b + ' không có trong mảng')
     }
+
 </script>
 </body>
 </html>

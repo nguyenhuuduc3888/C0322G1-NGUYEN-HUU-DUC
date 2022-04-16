@@ -2,22 +2,29 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Tìm V</title>
+    <title>XXXX</title>
 </head>
 <body>
 <script>
     let a = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 15, 18, 19];
-    let b = [5, 7, 8, 9, 4, 12, 15, 18, 12, 10,];
-    let i;
-    let j;
-    let flag = true;
-    for (i = 0; i < a.length; i++) {
-        for (j = 0; j < b.length; j++) {
-            if(a[i]===b[j]){
-                document.write(b[j] + ' là 1 phần tử trong mảng ' + '<br>');
+    let b = [1, 2, 4, 55, 77, 88,];
+    for (let j = 0; j < b.length; j++) { //vòng lặp để hiển thị phần tử trong mảng 'a'
+        let flag = false; // biến cờ để đánh giấu
+        for ( let i = 0; i < a.length; i++) { // vòng lặp để tìm xem các phần tử trong 'b' có giống 'a' hay không?
+            if (b[j] === a[i]) { //nếu nó đúng thì thoát khỏi lặp
+                flag = true;// đánh dấu nó bằng 'flag=true'
+                break; // break = kết thúc lặp
             }
         }
+        if (flag === true) { // nếu cờ đánh dấu 'flag=true'  thì trả về kq này
+            document.write(b[j] + "là 1 pt trong mảng" +'<br>')
+        } else { // còn lại thì cờ sẻ là 'flag=false'  thì trả về kết quả này
+            document.write(b[j] + ' không phải là pt trong mảng' +  "<br>")
+        }
     }
+
+
+
 </script>
 </body>
 </html>

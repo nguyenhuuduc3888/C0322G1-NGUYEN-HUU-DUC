@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let a=' duc dep trai ';
+    let word = 0;
+    for (let i = 0; i < a.length - 1; i++) {
+        if (a[i] !== ' ' && a[i + 1] === ' ') {
+            word++;
+        }
+    }
+    document.write('số từ có trong chuỗi là: ' + (word));
+</script>
+</body>
+</html>
