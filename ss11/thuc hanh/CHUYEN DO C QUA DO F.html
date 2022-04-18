@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+
+<script>
+
+    function temperatureConverter(valNum) { // valNum là tham số
+        valNum = parseFloat(valNum);
+         return (valNum - 32) / 1.8;
+    }
+
+    let nhapData = parseFloat(prompt('nhập ')); // let 'nhapData' là đối số
+   let b = temperatureConverter(nhapData);      // tạo let 'b' để lấy giá trị của  đối số chuyền vào tham số cụ thể là lấy giá trị của 'nhapData'
+                                                // gán cho 'valNum'
+   document.write(b); // " b " là giá trị mà "return" trả về
+
+
+</script>
+</body>
+</html>

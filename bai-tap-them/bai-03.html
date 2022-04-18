@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<script>
+    //3. Viết chương trình cho người dùng nhập vào 1 số nguyên bất kì.
+    // Hiển thị các số KHÔNG phải số nguyên tố từ 0 đến số người dùng nhập vào.
+    let a = parseInt(prompt("Nhập số bất kỳ"))
+    let j;
+    let i;
+    document.write(0 +'<br>'+ 1+ '<br>');
+    for (i = 0; i <= a; i++) {
+        flag = true;
+        for (j = 2; j < i; j++) {
+            if (i % j === 0) {
+                document.write(i + '<br>');
+                break;
+            }
+        }
+    }
+</script>
+</body>
+</html>

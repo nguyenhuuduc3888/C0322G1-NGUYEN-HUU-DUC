@@ -6,17 +6,17 @@
 </head>
 <body>
 <script>
-    let a = [44,1,2,3,4,5,14,21];
+    let a = [3,2,1,5,7,9];
     let b;
     for (let i = 0; i < a.length; i++) {
-        document.write( " " + a[i]); // in ra  1 2 3
+        document.write( " " + a[i]);
     }
-    for (let dau = 0; dau < a.length; dau++) {
-        for (let dau1 = 0; dau1 <= dau; dau1++)   {
-            if (a[dau] > a[dau1]) {
-                b = a[dau];
-                a[dau] = a[dau1];
-                a[dau1] = b;
+    for (let i= 0; i< a.length; i++) {
+        for (let j = 0; j <= i; j++)   {
+            if (a[i] > a[j]) {
+                b = a[i];
+                a[i] = a[j];
+                a[j] = b;
         }
         }
     }

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    // 1.Để kiểm tra xem một số nguyên bất kỳ có phải là số nguyên tố hay không...
+    // Sử dụng phương thức này để tìm tất cả các số nguyên tố nhỏ hơn 10000
+    function isPrime(number) {
+        if (number < 2) {
+            return false;
+        }
+        for (let i = 2; i < number; i++) {
+            if (number % i === 0) {
+                return false;
+            }
+        }
+        return true;
+    }
+    let nhapData = parseInt(prompt("nhập số bất kỳ"));
+    let b = isPrime(nhapData);
+    if (b === true) {
+        document.write(nhapData + " là số nguyên tố");
+    } else {
+        document.write(nhapData + " không phải số nguyên tố")
+    }
+</script>
+</body>
+</html>

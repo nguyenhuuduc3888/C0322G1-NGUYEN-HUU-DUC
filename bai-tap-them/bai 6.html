@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    //6. Viết chương trình nhập vào 1 mảng số nguyên. Nếu 2 phần tử liền nhau trong mảng có tổng = 20
+    // thì thay thế vị trí của 2 phần tử đó = tổng của nó. Ví dụ [ 1, 7, 13 , 6] => [1, 20, 20 ,6].
+    // khởi tạo mảng a =[] sau khởi tạo vòng lặp để nhập vào mảng số nguyên bằng vòng lặp
+  let a=parseInt(prompt('Nhập phần tử muốn có trong mảng'))
+    let b=[]
+  let i;
+  let j;
+  for(i=0;i<a;i++){
+      b[i]=parseInt(prompt('nhập số vô đi '));
+      for(j=0;j<a;j++){
+          if(b[j]+b[j+1]===20){
+              b[j]=20;
+              b[j+1]=20;
+          }
+      }
+  }document.write(b)
+
+</script>
+</body>
+</html>

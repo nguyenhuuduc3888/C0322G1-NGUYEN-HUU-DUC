@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+
+    function minArray(arr) {
+        if (arr.length == 0)
+            return "chuỗi rỗng";
+        let min = arr[0]; // min=0
+        for (let i = 1; i < arr.length; i++) {
+            if (arr[i] < min) { // arr[1]=0 < 0; arr[2]=-1<0 đúng
+                min = arr[i];// thì lúc này min=-1
+            }
+        }
+        return min;
+    }
+
+    let arr1 = [3, 5, 1, 8, -3, 7, 8,0];
+    let min1 = minArray(arr1);
+    document.write(min1 +'<br>');
+
+    let arr2 = [7, 12, 6, 9, 20, 56, 89,0];
+    let min2 = minArray(arr2 );
+    document.write(min2 + '<br>')
+
+    let arr3 = [];
+    let min3 = minArray(arr3);
+    document.write(min3 +'<br>')
+
+    let arr4 = [0, 0,-1];
+    let min4 = minArray(arr4);
+    document.write("Mảng: "+arr4+" có giá trị nhỏ nhất "+min4 + '<br>')
+
+</script>
+</body>
+</html>

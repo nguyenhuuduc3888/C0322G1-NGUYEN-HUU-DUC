@@ -20,51 +20,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24d1ca99-7bc1-4ffe-958d-72a7d77355ee" name="Default Changelist" comment="up">
-      <change afterPath="$PROJECT_DIR$/ss10/luyen-tap-1/bai-01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss10/luyen-tap-1/bai-02.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss10/luyen-tap-1/bai-03.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss10/luyen-tap-1/bai-04.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss10/luyen-tap-1/bai-05.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss10/luyen-tap-1/bai-06.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss10/luyen-tap-1/bai-07.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai-tap-them/bai 02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai-tap-them/bai 04.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai-tap-them/bai 07.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai-tap-them/bai 6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai-tap-them/bai-03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai-tap-them/bai-05.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11/bai luyen tap 01/bai 01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11/bai luyen tap 01/bai 03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11/bai luyen tap 01/bai 04.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11/bai luyen tap 01/bai 05.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11/bai luyen tap 01/bai 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11/bai tap/bai 01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11/bai tap/bai 02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11/bai tap/bai 1 cach 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11/thuc hanh/CHUYEN DO C QUA DO F.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11/thuc hanh/doi so.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11/thuc hanh/gia tri tra ve va goi ham.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11/thuc hanh/gia tri tra ve vagoi ham.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11/thuc hanh/thuc hanh 02 doi so.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11/thuc hanh/thuc hanh tim min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11/thuc hanh/thuc hanh.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss10/thuc_hanh/thuc hanh dao nguoc mang.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss10/thuc_hanh/thuc hanh dao nguoc mang.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss5/bai_tap/Bài_tập_tạo_bàn_cờ.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5/bai_tap/Bài_tập_tạo_bàn_cờ.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss5/bai_tap/Bài_tập_tạo_form_lấy_thông_tin_khách_hàng.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5/bai_tap/Bài_tập_tạo_form_lấy_thông_tin_khách_hàng.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss5/bai_tap/Bài_tập_tạo_form_đơn_giản.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5/bai_tap/Bài_tập_tạo_form_đơn_giản.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss5/bai_tap/Bài_tập_tạo_ô_lịch.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5/bai_tap/Bài_tập_tạo_ô_lịch.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss5/thuc_hanh/thuc_hanh_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5/thuc_hanh/thuc_hanh_2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss6/thuc_hanh/Thực_hành_01.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss6/thuc_hanh/Thực_hành_01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss6/thuc_hanh/g.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss6/thuc_hanh/g.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss6/thuc_hanh/on off light.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss6/thuc_hanh/on off light.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss6/thuc_hanh/text.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss6/thuc_hanh/text.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss6/thuc_hanh/thuc_hanh.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss6/thuc_hanh/thuc_hanh.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss7/bai_tap/bài_tập_chuyển_đổi_tiền_usd_vnđ.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss7/bai_tap/bài_tập_chuyển_đổi_tiền_usd_vnđ.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss7/bai_tap/bài_tập_máy_tính-đơn_giản.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss7/bai_tap/bài_tập_máy_tính-đơn_giản.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss7/bai_tap/chuyển_độ_C_sang_độ_F.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss7/bai_tap/chuyển_độ_C_sang_độ_F.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss7/thuc_hanh/máy_tính_nâng_cao.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss7/thuc_hanh/máy_tính_nâng_cao.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss7/thuc_hanh/thực_hành_01.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss7/thuc_hanh/thực_hành_01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8/bai_tap/Bài 3 Nhập một số nguyên bất kỳ  số đó là lớn hay nhỏ hơn 0.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss8/bai_tap/Bài 3 Nhập một số nguyên bất kỳ  số đó là lớn hay nhỏ hơn 0.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8/bai_tap/Bài 4 Nhập 3 số nguyên và tìm giá trị lớn nhất của ba số nguyên đó.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss8/bai_tap/Bài 4 Nhập 3 số nguyên và tìm giá trị lớn nhất của ba số nguyên đó.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8/bai_tap/Bài 6 Tính hoa hồng nhận được tuỳ theo mức doanh số bán hàng.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss8/bai_tap/Bài 6 Tính hoa hồng nhận được tuỳ theo mức doanh số bán hàng.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8/bai_tap/Bài tập 1 nhập vào hai số a và b, và kiểm tra xem a có chia hết cho b hay không.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss8/bai_tap/Bài tập 1 nhập vào hai số a và b, và kiểm tra xem a có chia hết cho b hay không.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8/bai_tap/Bài tập 2 nhập tuổi và in ra kết quả nếu tuổi học sinh đó không đủ điều kiện vào học lớp 10.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss8/bai_tap/Bài tập 2 nhập tuổi và in ra kết quả nếu tuổi học sinh đó không đủ điều kiện vào học lớp 10.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8/bai_tap/Bài tập 5 Xếp hạng học lực của học sinh dựa trên các điểm bài kiểm tra, điểm thi giữa kỳ, điểm thi cuối kỳ.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss8/bai_tap/Bài tập 5 Xếp hạng học lực của học sinh dựa trên các điểm bài kiểm tra, điểm thi giữa kỳ, điểm thi cuối kỳ.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8/bai_tap/bài_tập_máy_tính_đơn_giản.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss8/bai_tap/bài_tập_máy_tính_đơn_giản.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8/bai_tap_02/Bài 12 Viết chương trình tính lãi ngân hàng (lãi mẹ đẻ lãi con) khi biết số tiền ban đầu, số tháng cho vay và lãi xuất hàng tháng.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss8/bai_tap_02/Bài 12 Viết chương trình tính lãi ngân hàng (lãi mẹ đẻ lãi con) khi biết số tiền ban đầu, số tháng cho vay và lãi xuất hàng tháng.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8/bai_tap_02/Bài 6 Giải phương trình bậc 1.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss8/bai_tap_02/Bài 6 Giải phương trình bậc 1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8/bai_tap_02/Bài 8 Kiểm tra xem một số nhập vào có phải là tuổi của một người không.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss8/bai_tap_02/Bài 8 Kiểm tra xem một số nhập vào có phải là tuổi của một người không.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8/bai_tap_02/Bài 9 Kiểm tra xem 3 số thực (a,b,c) nhập vào có phải là cạnh của một tam giác.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss8/bai_tap_02/Bài 9 Kiểm tra xem 3 số thực (a,b,c) nhập vào có phải là cạnh của một tam giác.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8/bai_tap_03/Bài tập Ứng dụng vui DoYouLoveMe.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss8/bai_tap_03/Bài tập Ứng dụng vui DoYouLoveMe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8/thuc_hanh/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss8/thuc_hanh/1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8/thuc_hanh/Tạo máy tính đơn giản bằng javascript.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8/thuc_hanh/nháp.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss8/thuc_hanh/nháp.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss9/bai_tap/tao_bang_cuu_chuong.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss9/bai_tap/tao_bang_cuu_chuong.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss9/bai_tap_01/bai_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss9/bai_tap_01/bai_2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss9/bai_tap_01/bai_6.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss9/bai_tap_01/bai_6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss9/bai_tap_02/bai_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss9/bai_tap_02/bai_3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss9/bai_tap_02/bai_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss9/bai_tap_02/bai_4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss9/thuc_hanh/thuc_hanh_tao_bang.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss9/thuc_hanh/thuc_hanh_tao_bang.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai-tap-them/bai 01.html" beforeDir="false" afterPath="$PROJECT_DIR$/bai-tap-them/bai 01.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss10/luyen-tap-1/bai-03.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss10/luyen-tap-1/bai-03.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss10/luyen-tap-1/bai-04.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss10/luyen-tap-1/bai-04.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss10/luyen-tap-1/bai-06.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss10/luyen-tap-1/bai-06.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss10/luyen-tap-1/bai-08.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss10/luyen-tap-1/bai-08.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss10/luyen_tap_2/bai tap 04.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss10/luyen_tap_2/bai tap 04.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss10/luyen_tap_2/luyen tap 03.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss10/luyen_tap_2/luyen tap 03.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss11/thuc hanh/th 01.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss11/thuc hanh/th 01.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss11/thuc hanh/th 01.js" beforeDir="false" afterPath="$PROJECT_DIR$/ss11/thuc hanh/th 01.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/bai_tap/hien_thi_so_nguyen_to_dau-tien.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss9/bai_tap/hien_thi_so_nguyen_to_dau-tien.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/bai_tap_01/bai_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss9/bai_tap_01/bai_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9/bai_tap_01/bai_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss9/bai_tap_01/bai_3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,8 +63,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML4 File" />
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -104,12 +93,20 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.bai-05.html">
+    <configuration name="bai-05.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CODE_GYM_DN/bai-tap-them/bai-05.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="bai-06.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CODE_GYM_DN/ss10/luyen-tap-1/bai-06.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="hien_thi_so_nguyen_to_dau-tien.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CODE_GYM_DN/ss9/bai_tap/hien_thi_so_nguyen_to_dau-tien.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.bai-05.html" />
+        <item itemvalue="JavaScript Debug.bai-06.html" />
         <item itemvalue="JavaScript Debug.hien_thi_so_nguyen_to_dau-tien.html" />
       </list>
     </recent_temporary>
@@ -199,6 +196,18 @@
       <workItem from="1649911106565" duration="11336000" />
       <workItem from="1649930999176" duration="589000" />
       <workItem from="1649940130666" duration="10427000" />
+      <workItem from="1649983737962" duration="20796000" />
+      <workItem from="1650072729168" duration="10670000" />
+      <workItem from="1650093190138" duration="13971000" />
+      <workItem from="1650115728910" duration="5167000" />
+      <workItem from="1650157255251" duration="14269000" />
+      <workItem from="1650172116843" duration="2259000" />
+      <workItem from="1650181742736" duration="6265000" />
+      <workItem from="1650188265356" duration="770000" />
+      <workItem from="1650203363536" duration="5592000" />
+      <workItem from="1650242771974" duration="12330000" />
+      <workItem from="1650266948360" duration="10638000" />
+      <workItem from="1650288535192" duration="300000" />
     </task>
     <task id="LOCAL-00001" summary="up">
       <created>1648888680133</created>
@@ -241,6 +250,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="550" y="0" width="816" height="728" key="#Intentions/0.0.1366.728@0.0.1366.728" timestamp="1649947884706" />
+    <state x="455" y="11" key="#bai_01.html" timestamp="1650244806156">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="455" y="11" key="#bai_01.html/0.0.1366.728@0.0.1366.728" timestamp="1650244806156" />
     <state x="464" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1649064705052">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -249,70 +262,70 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1649058828717" />
-    <state width="1366" height="226" key="GridCell.Tab.0.bottom" timestamp="1649756812102">
+    <state width="1366" height="226" key="GridCell.Tab.0.bottom" timestamp="1650120915594">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1366" height="226" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1649756812102" />
-    <state width="1366" height="226" key="GridCell.Tab.0.center" timestamp="1649756812102">
+    <state width="1366" height="226" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1650120915594" />
+    <state width="1366" height="226" key="GridCell.Tab.0.center" timestamp="1650120915593">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1366" height="226" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1649756812102" />
-    <state width="1366" height="226" key="GridCell.Tab.0.left" timestamp="1649756812102">
+    <state width="1366" height="226" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1650120915593" />
+    <state width="1366" height="226" key="GridCell.Tab.0.left" timestamp="1650120915593">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1366" height="226" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1649756812102" />
-    <state width="1366" height="226" key="GridCell.Tab.0.right" timestamp="1649756812102">
+    <state width="1366" height="226" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1650120915593" />
+    <state width="1366" height="226" key="GridCell.Tab.0.right" timestamp="1650120915594">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1366" height="226" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1649756812102" />
-    <state width="1366" height="226" key="GridCell.Tab.1.bottom" timestamp="1649756812103">
+    <state width="1366" height="226" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1650120915594" />
+    <state width="1366" height="226" key="GridCell.Tab.1.bottom" timestamp="1650120915594">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1366" height="226" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1649756812103" />
-    <state width="1366" height="226" key="GridCell.Tab.1.center" timestamp="1649756812103">
+    <state width="1366" height="226" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1650120915594" />
+    <state width="1366" height="226" key="GridCell.Tab.1.center" timestamp="1650120915594">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1366" height="226" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1649756812103" />
-    <state width="1366" height="226" key="GridCell.Tab.1.left" timestamp="1649756812103">
+    <state width="1366" height="226" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1650120915594" />
+    <state width="1366" height="226" key="GridCell.Tab.1.left" timestamp="1650120915594">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1366" height="226" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1649756812103" />
-    <state width="1366" height="226" key="GridCell.Tab.1.right" timestamp="1649756812103">
+    <state width="1366" height="226" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1650120915594" />
+    <state width="1366" height="226" key="GridCell.Tab.1.right" timestamp="1650120915594">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1366" height="226" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1649756812103" />
-    <state width="1366" height="226" key="GridCell.Tab.2.bottom" timestamp="1649756812103">
+    <state width="1366" height="226" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1650120915594" />
+    <state width="1366" height="226" key="GridCell.Tab.2.bottom" timestamp="1650120915594">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1366" height="226" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1649756812103" />
-    <state width="1366" height="226" key="GridCell.Tab.2.center" timestamp="1649756812103">
+    <state width="1366" height="226" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1650120915594" />
+    <state width="1366" height="226" key="GridCell.Tab.2.center" timestamp="1650120915594">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1366" height="226" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1649756812103" />
-    <state width="1366" height="226" key="GridCell.Tab.2.left" timestamp="1649756812103">
+    <state width="1366" height="226" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1650120915594" />
+    <state width="1366" height="226" key="GridCell.Tab.2.left" timestamp="1650120915594">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1366" height="226" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1649756812103" />
-    <state width="1366" height="226" key="GridCell.Tab.2.right" timestamp="1649756812103">
+    <state width="1366" height="226" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1650120915594" />
+    <state width="1366" height="226" key="GridCell.Tab.2.right" timestamp="1650120915594">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1366" height="226" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1649756812103" />
-    <state width="1366" height="226" key="GridCell.Tab.3.bottom" timestamp="1649756812103">
+    <state width="1366" height="226" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1650120915594" />
+    <state width="1366" height="226" key="GridCell.Tab.3.bottom" timestamp="1650120915594">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1366" height="226" key="GridCell.Tab.3.bottom/0.0.1366.728@0.0.1366.728" timestamp="1649756812103" />
-    <state width="1366" height="226" key="GridCell.Tab.3.center" timestamp="1649756812103">
+    <state width="1366" height="226" key="GridCell.Tab.3.bottom/0.0.1366.728@0.0.1366.728" timestamp="1650120915594" />
+    <state width="1366" height="226" key="GridCell.Tab.3.center" timestamp="1650120915594">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1366" height="226" key="GridCell.Tab.3.center/0.0.1366.728@0.0.1366.728" timestamp="1649756812103" />
-    <state width="1366" height="226" key="GridCell.Tab.3.left" timestamp="1649756812103">
+    <state width="1366" height="226" key="GridCell.Tab.3.center/0.0.1366.728@0.0.1366.728" timestamp="1650120915594" />
+    <state width="1366" height="226" key="GridCell.Tab.3.left" timestamp="1650120915594">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1366" height="226" key="GridCell.Tab.3.left/0.0.1366.728@0.0.1366.728" timestamp="1649756812103" />
-    <state width="1366" height="226" key="GridCell.Tab.3.right" timestamp="1649756812103">
+    <state width="1366" height="226" key="GridCell.Tab.3.left/0.0.1366.728@0.0.1366.728" timestamp="1650120915594" />
+    <state width="1366" height="226" key="GridCell.Tab.3.right" timestamp="1650120915594">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1366" height="226" key="GridCell.Tab.3.right/0.0.1366.728@0.0.1366.728" timestamp="1649756812103" />
+    <state width="1366" height="226" key="GridCell.Tab.3.right/0.0.1366.728@0.0.1366.728" timestamp="1650120915594" />
     <state x="844" y="65" key="RollbackChangesDialog" timestamp="1648787481826">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -321,10 +334,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="83" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1648898660830" />
-    <state x="292" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1649297296728">
+    <state x="292" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1650244595047">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="292" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1649297296728" />
+    <state x="292" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1650244595047" />
     <state x="492" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1648888668242">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

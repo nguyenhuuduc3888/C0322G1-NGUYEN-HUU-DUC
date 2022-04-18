@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function footToMeter(meter){
+        let foot = 3.279 * meter;
+        return foot;
+    }
+    let nhapData=parseFloat(prompt("nhập số foot "));
+    let nhanData=footToMeter(nhapData);
+    document.write("Số foot sau khi chuyển đổi sang meter là " + nhanData + "<br>");
+
+    function  meterToFoot(foot)  {
+         let meter = 0.305 * foot;
+        return meter;
+
+    }
+    let nhapData1=parseFloat(prompt('nhập số meter'));
+    let nhanData1=meterToFoot(nhapData1);
+    document.write( "Số meter sau khi chuyển đổi sang foot là "+nhanData1+"<br>");
+
+</script>
+</body>
+</html>
