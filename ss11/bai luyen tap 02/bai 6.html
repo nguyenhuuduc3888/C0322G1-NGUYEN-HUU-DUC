@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    // Bài 6: Viết hàm nhận vào một số, kiểm tra xem nếu số đưa vào có phải là nguyên dương không.
+    //     Nếu là nguyên dương trả về true, ngược lại trả về false.
+    function nguyenDuong(c) {
+        if(c>0 ){
+            return true;
+        }
+    }
+    let a=parseInt(prompt("nhap so bat ky"));
+    let b=nguyenDuong(a);
+    if(b===true){
+        document.write(true);
+    }else {document.write(false)};
+</script>
+</body>
+</html>

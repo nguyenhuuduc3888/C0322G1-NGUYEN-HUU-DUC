@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    // Bài 8: Viết hàm truyền vào mảng số nguyên bất kỳ, sau đó đảo ngược mảng số nguyên đó.
+    function daoMang() {
+        let dau = 0;
+        let cuoi = a.length - 1
+        while (dau < cuoi) {
+            let d = a[dau];
+            a[dau] = a[cuoi];
+            a[cuoi] = d;
+            dau++
+            cuoi--
+        }
+        return(a);
+    }
+
+    let a = [];
+    for (let i = 0; i < 5; i++) {
+        a[i] = parseInt(prompt('nhap so nguyen bat ky'));
+    }
+   document.write(daoMang());
+
+</script>
+</body>
+</html>

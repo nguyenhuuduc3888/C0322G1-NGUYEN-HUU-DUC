@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    // Bài 5: Viết hàm nhận vào 3 số nguyên bất kỳ, trả về số nguyên có giá trị nhỏ nhất.
+    function soNguyen(n) {
+        let min = n[0]
+        for (let i = 1; i < n.length; i++) {
+            if (n[i] < min) {
+                min = n[i];
+            }
+        }  document.write(min + ' la so nguyen nho nhat');
+    }
+    let a = [];
+    for (let i = 0; i < 3; i++) {
+        a[i] = parseInt(prompt('nhap so bat ky'))
+    }
+    let b = soNguyen(a);
+
+
+</script>
+</body>
+</html>
