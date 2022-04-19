@@ -9,14 +9,18 @@
     // Bài 3: Tạo hàm nhận vào hai tham số.
     // Nếu giá trị của tham số thứ nhất lớn hơn tham số thứ hai,hiển thị hộp thoại thông báo cho người dùng.
     //  Nếu giá trị của tham số thứ nhất nhỏ hơn hoặc bằng tham số thứ hai, trả về tổng của hai tham số.
-    function nhanData(a, b) {
-        if (a > b) {
-             alert(a + ' lớn hơn ' + b)
-        }else {alert(a+b)}
+    function data(so1, so2) {
+        if (so1 > so2) {
+            return (so1 + ' > ' + so2)
+        } else {
+            return (so1 + so2)
+        }
     }
-    let a=11;
-    let b=12;
-    let c=nhanData(a,b);
+
+    let input1 = parseInt(prompt("nhap bat ky 1"));
+    let input2 = parseInt(prompt('nhap bat ky 2'));
+    let kQ = data(input1, input2);
+    alert(kQ);
 
 </script>
 </body>

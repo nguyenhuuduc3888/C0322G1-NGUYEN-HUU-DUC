@@ -17,14 +17,16 @@
     //  Cho kết quả hiển thị trên màn hình.
 
     function star1(c) {
-        for (let i = 0; i < star.length; i++) {
-            if (c === star[i]) {
-                for (let j = 0; j <= i; j++) {
-                    c = chomStar[j];
-                }
+        let flag = false;
+        for (i = 0; i < star.length; i++) {
+            if (c === star[i]){
+                c=chomStar[i];
+                flag=true;
+                break;
             }
-        }
-        return (c);
+        }if(flag===false){
+            c = c+ " khong tim thay"
+        }return(c);
     }
 
     let star = ['Polaris', 'Aldebaran', 'Deneb', 'Vega', 'Altair', 'Dubhe', 'Regulus']
@@ -32,7 +34,6 @@
     let a = prompt("nhập tên ngôi sao")
     let b = star1(a)
     document.write(b);
-
 
 </script>
 </body>

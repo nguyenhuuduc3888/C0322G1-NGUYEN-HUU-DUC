@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    // Bài 9: Viết hàm truyền vào một mảng ký tự, và một ký tự bất kỳ, kiểm tra xem ký tự bất kỳ đó có nằm trong mảng không.
+    //     Nếu có trả về số lần xuất hiện của ký tự đó, nếu không trả về -1.
+
+    function ham(a,b) {
+        let count = 0;
+        for (let i = 0; i < a.length; i++) {
+            if (b === a[i]) {
+                count++
+            }
+        }
+        if (count === 0) {
+            return (-1)
+        }else {return (count)}
+    }
+
+    let a = [];
+    for (let i = 0; i < 5; i++) {
+        a[i] = prompt('nhap ky tu bat ky');
+    }
+    let b = prompt('nhap 1 ky tu bat ky');
+    let c = ham(a,b)
+    if (c === -1) {
+        document.write('ky tu nay k co trong mang')
+    } else {
+        document.write("ky tu :" + b + "  suat hien " + c + ' lan ')
+    }
+
+</script>
+</body>
+</html>

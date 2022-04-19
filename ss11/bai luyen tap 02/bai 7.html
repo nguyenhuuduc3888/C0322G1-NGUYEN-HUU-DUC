@@ -7,15 +7,18 @@
 <body>
 <script>
     // Bài 7: Viết hàm truyền vào 2 số nguyên bất kì, thực hiện đổi chỗ hai số nguyên đó.
-    function soNguyen() {
-        let c=a;
-            a=b;
-            b=c;
-            return (a + ' ==> ' + b);
+    function soNguyen(x,y) { // x y là hai tham số cua funtion được gán bằng 'a và b'
+        let h = x;
+            x = y;
+            y = h;
+        return (x + ' ===> ' + y)
     }
-    let a = parseInt(prompt('nhap so thu nhat'));
-    let b = parseInt(prompt('nhap so thu hai'));
-document.write(soNguyen())
+
+    let a = parseInt(prompt('nhap so thu 1'));
+    let b = parseInt(prompt('nhap so thu 2'));
+    let c=soNguyen(a,b)// a b là hai thông số nhập vào
+    document.write(c);
+
 </script>
 </body>
 </html>

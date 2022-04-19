@@ -7,24 +7,25 @@
 <body>
 <script>
     // Bài 8: Viết hàm truyền vào mảng số nguyên bất kỳ, sau đó đảo ngược mảng số nguyên đó.
-    function daoMang() {
+    function daoMang(x) {
         let dau = 0;
-        let cuoi = a.length - 1
+        let cuoi = x.length - 1
         while (dau < cuoi) {
-            let d = a[dau];
-            a[dau] = a[cuoi];
-            a[cuoi] = d;
+            let d = x[dau];
+            x[dau] = x[cuoi];
+            x[cuoi] = d;
             dau++
             cuoi--
         }
-        return(a);
+        return(x);
     }
 
     let a = [];
     for (let i = 0; i < 5; i++) {
         a[i] = parseInt(prompt('nhap so nguyen bat ky'));
     }
-   document.write(daoMang());
+    let b=daoMang(a)
+   document.write(b);
 
 </script>
 </body>

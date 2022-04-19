@@ -9,7 +9,7 @@
     // Bài 4: Viết hàm kiểm tra xem ký tự nhập vào có phải là ký tự số không.
     // Nếu là ký tự số hàm trả về true, ngược lại trả về false.
     function numbers(num) {
-        if (num % 1 === 0) {
+        if (!isNaN(num)) {
             return true;
         }
     }
