@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Den Pin</title>
+</head>
+<body>
+<script>
+    class Battery {
+        setEnergy(energy) {
+            this.energy = energy;
+        };
+
+        getEnergy() {
+            return this.energy
+        };
+
+        decreaseEnergy() {
+            if (this.energy > 0) {
+                this.energy--;
+            }
+        }
+    };
+
+    class Flashlamp {
+        setBattery(battery) {
+            this.battery = battery;
+        };
+
+        getBatteryInfo() {
+            return this.battery.getEnergy();
+        };
+
+        ligt() {
+            if (this.status) {
+                alert('Lighting');
+            } else {
+                alert('Not lighting');
+            }
+        };
+
+        turnOn() {
+            this.status = true;
+        };
+
+        turnOff() {
+            this.status = false;
+        }
+    };
+    let battery = new Battery();
+    battery.setEnergy(10);
+
+    let flashlamp = new Flashlamp();
+    flashlamp.setBattery(battery);
+
+    document.write('Thong tin pin :' + flashlamp.getBatteryInfo() + "<br/>");
+    flashlamp.ligt();
+
+    document.write('Bat den <br/>')
+    flashlamp.turnOn();
+    battery.decreaseEnergy();
+    flashlamp.turnOff();
+
+    document.write('Thong tin pin :' + flashlamp.getBatteryInfo() + '<br/>');
+    document.write('Tat den<br/>')
+    flashlamp.turnOff();
+    flashlamp.turnOn();
+</script>
+</body>
+</html>

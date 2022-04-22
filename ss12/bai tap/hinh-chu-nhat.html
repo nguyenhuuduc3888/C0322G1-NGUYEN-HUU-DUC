@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    class Hcn{
+        constructor(dai,rong) {
+            this.dai=dai;
+            this.rong=rong;
+        };
+        getDai(){
+            return this.dai
+        };
+        getRong(){
+            return this.rong
+        };
+        getS(){
+            return this.dai*this.rong
+        };
+        getChuVi(){
+            return (this.dai+this.rong)*2;
+        }
+
+    };
+    let hcn = new Hcn(5,6)
+    let a=hcn.getDai();
+    let b=hcn.getRong();
+    let s=hcn.getS();
+    let v=hcn.getChuVi();
+    alert("khi chiều dài = "+a + "chiều rộng = "+b +' diện tích hcn = ' + s );
+    alert("khi chiều dài = "+a + "chiều rộng = "+b +' chu vi hcn = ' + v);
+
+</script>
+</body>
+</html>

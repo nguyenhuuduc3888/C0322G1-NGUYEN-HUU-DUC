@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    class Temperature {
+        constructor(doC) {
+            this.a = doC;
+        }
+
+        getC() {
+
+            return this.a;
+        }
+
+        getKq() {
+            return (9 * this.a) / 5 + 32
+        }
+
+        getKqk() {
+            return this.a + 2.3
+        }
+    }
+   let input;
+    do {
+         input = parseFloat(prompt('nhap nhiet do'));
+        if (input < -273) {
+            alert('Tang nhiet do lon hon -273')
+        } else {
+            input=input;
+            break;
+        }
+    } while (true)
+
+     let temperature = new Temperature(input);
+    let a = temperature.getC();
+    let doF = temperature.getKq()
+    let doK = temperature.getKqk()
+
+    alert(a + " do c  ===> do F = " + doF)
+    alert(a + " do c ===> do kelvin = " + doK)
+
+</script>
+</body>
+</html>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    class Cricle {
+        constructor(newRadius,) {
+            this.radius = newRadius;
+        }
+
+        getRadius() {
+            return this.radius;
+        }
+
+        getArea() {
+            return Math. PI * radius * radius
+        }
+
+        setRadius(newRadius) {
+            this.radius = newRadius;
+        }
+
+    }
+
+    let circle = new Cricle(10);
+    let radius = circle.getRadius();
+    let area = circle.getArea();
+    alert('darius : ' + radius + ";area :" + area);
+    circle.setRadius(100);
+    radius = circle.getRadius();
+    alert('darius : ' + radius + ";area :" + area);
+    circle.setRadius(1000);
+    radius = circle.getRadius();
+    alert('darius : ' + radius + ";area :" + area);
+
+</script>
+</body>
+</html>

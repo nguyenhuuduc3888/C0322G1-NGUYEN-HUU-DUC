@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    class MyDate {
+        constructor(day, month, year,) {
+            this.day = day;
+            this.month = month;
+            this.year = year;
+        }
+
+        // thêm phương thức setDate() để thiết đặt lại day/month/year..
+        setDate(newday, newmonth, newyear) {
+            this.day = newday;
+            this.month = newmonth;
+            this.year = newyear;
+
+
+        }
+
+        // xay dung phuong thuc tra ve day/month,year...
+        getDay() {
+            return this.day;
+        }
+
+        getMonth() {
+            return this.month;
+        }
+
+        getYear() {
+            return this.year;
+        }
+
+        // Thiet dat lai gia tri cac thuoc tinh day/month/year....
+        setDay(newDay) {
+            this.day = newDay;
+        }
+
+        setMonth(newMonth) {
+            this.month = newMonth;
+        }
+
+        setYear(newYear) {
+            this.year = newYear;
+        }
+
+        // them phương thức toString() để trả về chuỗi day/month/year...
+        toString() {
+            return this.day + '/' + this.month + '/' + this.year;
+        }
+    }
+
+    // Tạo đối tuong date 2/2/2022
+    let date = new MyDate(2, 2, 2022);
+    // Truy cập phương thức của lớp date như sau....
+    let day = date.getDay();
+    let month = date.getMonth();
+    let year = date.getYear();
+    //hien thi ket qua sau khi thay doi lan 1
+    alert(day + '/' + month + '/' + year);
+    // Gọi phương thức để thay đổi day,month,year...
+    date.setDay(20);
+    date.setMonth(4);
+    date.setYear(2022);
+    //Truy cap lai phuong thuc cua lop date....
+    day = date.getDay();
+    month = date.getMonth();
+    year = date.getYear();
+    // hien thi ket qua sau khi thay doi lan 2
+    alert(day + '/' + month + '/' + year);
+    //tao doi tuong mydate(5,5,5555)...
+    let mydate = new MyDate();
+    // //Gọi 2 phương thức vừa xây dựng....
+    mydate.setDate(5, 5, 5555);
+    alert(mydate.toString());
+
+
+</script>
+</body>
+</html>
