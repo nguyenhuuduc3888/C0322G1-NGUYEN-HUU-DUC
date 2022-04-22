@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Swicth and lamp</title>
+</head>
+<body>
+<script>
+    class BongDien {
+        constructor() {
+            this.trangThaiBongDen = false;
+        };
+
+        batDen() {
+            this.trangThaiBongDen = true;
+            alert('Den Dang Bat');
+        };
+
+        tatDen() {
+            this.trangThaiBongDen = false;
+            alert('Den Dang Tat');
+        };
+    };
+
+    class CongTac {
+        constructor() {
+            this.trangThaiCongTac = false;
+        };
+        ketNoi(dayKetNoi){
+            this.dayDien=dayKetNoi;
+        };
+        batCongTac(){
+            this.dayDien.batDen();
+        };
+        tatCongTat(){
+            this.dayDien.tatDen();
+        };
+    };
+    let caiBongDen= new BongDien();
+    let caiCongTac= new CongTac();
+    caiCongTac.ketNoi(caiBongDen);
+    caiCongTac.batCongTac();
+    caiCongTac.tatCongTat();
+
+
+</script>
+</body>
+</html>
